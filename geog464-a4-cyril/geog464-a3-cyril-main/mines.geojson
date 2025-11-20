@@ -1,0 +1,7331 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.071264,
+          48.217559
+        ]
+      },
+      "properties": {
+        "name": "Abbeville",
+        "category": "Puits",
+        "status": "Abandonné",
+        "commodity": "GOLD",
+        "last_year": "1940.0",
+        "description": "Abandonné · Commodity: GOLD · Last operation: 1940.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.660639,
+          48.254766
+        ]
+      },
+      "properties": {
+        "name": "Abcourt (halde)",
+        "category": "Surface",
+        "status": "Abandonné",
+        "commodity": "ZINC",
+        "last_year": "1957.0",
+        "description": "Abandonné · Commodity: ZINC · Last operation: 1957.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.660639,
+          48.254766
+        ]
+      },
+      "properties": {
+        "name": "Abcourt (halde)",
+        "category": "Surface",
+        "status": "Abandonné",
+        "commodity": "SILVER",
+        "last_year": "1957.0",
+        "description": "Abandonné · Commodity: SILVER · Last operation: 1957.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.033659,
+          48.191864
+        ]
+      },
+      "properties": {
+        "name": "Abitibi-Asbestos",
+        "category": "Puits",
+        "status": "Abandonné",
+        "commodity": "ASBESTOS",
+        "last_year": "1976.0",
+        "description": "Abandonné · Commodity: ASBESTOS · Last operation: 1976.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.559472,
+          45.638899
+        ]
+      },
+      "properties": {
+        "name": "Acton Copper",
+        "category": "Souterrainee",
+        "status": "Abandonné",
+        "commodity": "COPPER",
+        "last_year": "1861.0",
+        "description": "Abandonné · Commodity: COPPER · Last operation: 1861.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.559472,
+          45.638899
+        ]
+      },
+      "properties": {
+        "name": "Acton Copper",
+        "category": "Souterrainee",
+        "status": "Abandonné",
+        "commodity": "PYRITE",
+        "last_year": "1861.0",
+        "description": "Abandonné · Commodity: PYRITE · Last operation: 1861.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.917902,
+          48.184418
+        ]
+      },
+      "properties": {
+        "name": "Adanac",
+        "category": "Puits d'exploration",
+        "status": "Abandonné",
+        "commodity": "GOLD",
+        "last_year": null,
+        "description": "Abandonné · Commodity: GOLD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.563229,
+          48.046722
+        ]
+      },
+      "properties": {
+        "name": "Akasaba",
+        "category": "Puits",
+        "status": "Abandonné",
+        "commodity": "GOLD",
+        "last_year": "1963.0",
+        "description": "Abandonné · Commodity: GOLD · Last operation: 1963.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.912229,
+          45.321245
+        ]
+      },
+      "properties": {
+        "name": "Albert",
+        "category": "Puits",
+        "status": "Abandonné",
+        "commodity": "COPPER",
+        "last_year": "1907.0",
+        "description": "Abandonné · Commodity: COPPER · Last operation: 1907.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.912229,
+          45.321245
+        ]
+      },
+      "properties": {
+        "name": "Albert",
+        "category": "Puits",
+        "status": "Abandonné",
+        "commodity": "ZINC",
+        "last_year": "1907.0",
+        "description": "Abandonné · Commodity: ZINC · Last operation: 1907.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.912229,
+          45.321245
+        ]
+      },
+      "properties": {
+        "name": "Albert",
+        "category": "Puits",
+        "status": "Abandonné",
+        "commodity": "LEAD",
+        "last_year": "1907.0",
+        "description": "Abandonné · Commodity: LEAD · Last operation: 1907.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.912229,
+          45.321245
+        ]
+      },
+      "properties": {
+        "name": "Albert",
+        "category": "Puits",
+        "status": "Abandonné",
+        "commodity": "SILVER",
+        "last_year": "1907.0",
+        "description": "Abandonné · Commodity: SILVER · Last operation: 1907.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.231219,
+          48.219539
+        ]
+      },
+      "properties": {
+        "name": "Aldermac",
+        "category": "Puits",
+        "status": "Abandonné",
+        "commodity": "COPPER",
+        "last_year": "1943.0",
+        "description": "Abandonné · Commodity: COPPER · Last operation: 1943.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.231219,
+          48.219539
+        ]
+      },
+      "properties": {
+        "name": "Aldermac",
+        "category": "Puits",
+        "status": "Abandonné",
+        "commodity": "ZINC",
+        "last_year": "1943.0",
+        "description": "Abandonné · Commodity: ZINC · Last operation: 1943.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.231219,
+          48.219539
+        ]
+      },
+      "properties": {
+        "name": "Aldermac",
+        "category": "Puits",
+        "status": "Abandonné",
+        "commodity": "SILVER",
+        "last_year": "1943.0",
+        "description": "Abandonné · Commodity: SILVER · Last operation: 1943.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.273485,
+          46.012551
+        ]
+      },
+      "properties": {
+        "name": "American Chrome",
+        "category": "À ciel ouvert",
+        "status": "Abandonné",
+        "commodity": "CHROMIUM",
+        "last_year": "1918.0",
+        "description": "Abandonné · Commodity: CHROMIUM · Last operation: 1918.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.037507,
+          48.269443
+        ]
+      },
+      "properties": {
+        "name": "Anglo-Rouyn",
+        "category": "Puits",
+        "status": "Abandonné",
+        "commodity": "GOLD",
+        "last_year": "1951.0",
+        "description": "Abandonné · Commodity: GOLD · Last operation: 1951.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.037507,
+          48.269443
+        ]
+      },
+      "properties": {
+        "name": "Anglo-Rouyn",
+        "category": "Puits",
+        "status": "Abandonné",
+        "commodity": "SILVER",
+        "last_year": "1951.0",
+        "description": "Abandonné · Commodity: SILVER · Last operation: 1951.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.115344,
+          48.357083
+        ]
+      },
+      "properties": {
+        "name": "Ansil",
+        "category": "Puits",
+        "status": "Abandonné",
+        "commodity": "COPPER",
+        "last_year": "1993.0",
+        "description": "Abandonné · Commodity: COPPER · Last operation: 1993.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.115344,
+          48.357083
+        ]
+      },
+      "properties": {
+        "name": "Ansil",
+        "category": "Puits",
+        "status": "Abandonné",
+        "commodity": "ZINC",
+        "last_year": "1993.0",
+        "description": "Abandonné · Commodity: ZINC · Last operation: 1993.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.115344,
+          48.357083
+        ]
+      },
+      "properties": {
+        "name": "Ansil",
+        "category": "Puits",
+        "status": "Abandonné",
+        "commodity": "GOLD",
+        "last_year": "1993.0",
+        "description": "Abandonné · Commodity: GOLD · Last operation: 1993.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.115344,
+          48.357083
+        ]
+      },
+      "properties": {
+        "name": "Ansil",
+        "category": "Puits",
+        "status": "Abandonné",
+        "commodity": "SILVER",
+        "last_year": "1993.0",
+        "description": "Abandonné · Commodity: SILVER · Last operation: 1993.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.269247,
+          48.204543
+        ]
+      },
+      "properties": {
+        "name": "Arntfield ",
+        "category": "Puits",
+        "status": "Abandonné",
+        "commodity": "GOLD",
+        "last_year": "1942.0",
+        "description": "Abandonné · Commodity: GOLD · Last operation: 1942.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.67691,
+          48.273428
+        ]
+      },
+      "properties": {
+        "name": "Arrowhead",
+        "category": "Puits d'exploration",
+        "status": "Abandonné",
+        "commodity": "GOLD",
+        "last_year": null,
+        "description": "Abandonné · Commodity: GOLD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.906188,
+          45.345577
+        ]
+      },
+      "properties": {
+        "name": "Ascot Haskell",
+        "category": "Puits",
+        "status": "Abandonné",
+        "commodity": "COPPER",
+        "last_year": "1907.0",
+        "description": "Abandonné · Commodity: COPPER · Last operation: 1907.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.906188,
+          45.345577
+        ]
+      },
+      "properties": {
+        "name": "Ascot Haskell",
+        "category": "Puits",
+        "status": "Abandonné",
+        "commodity": "SILVER",
+        "last_year": "1907.0",
+        "description": "Abandonné · Commodity: SILVER · Last operation: 1907.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.539811,
+          46.131051
+        ]
+      },
+      "properties": {
+        "name": "Ashbury Graphite",
+        "category": "À ciel ouvert",
+        "status": "Abandonné",
+        "commodity": "GRAPHITE",
+        "last_year": "1988.0",
+        "description": "Abandonné · Commodity: GRAPHITE · Last operation: 1988.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.454052,
+          45.718806
+        ]
+      },
+      "properties": {
+        "name": "Asselin",
+        "category": "Galerie d'accès",
+        "status": "Abandonné",
+        "commodity": "GOLD",
+        "last_year": null,
+        "description": "Abandonné · Commodity: GOLD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.71037,
+          47.403744
+        ]
+      },
+      "properties": {
+        "name": "Aubelle",
+        "category": "Puits d'exploration",
+        "status": "Abandonné",
+        "commodity": "GOLD",
+        "last_year": null,
+        "description": "Abandonné · Commodity: GOLD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.71037,
+          47.403744
+        ]
+      },
+      "properties": {
+        "name": "Aubelle",
+        "category": "Puits d'exploration",
+        "status": "Abandonné",
+        "commodity": "SILVER",
+        "last_year": null,
+        "description": "Abandonné · Commodity: SILVER"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.717999,
+          48.089125
+        ]
+      },
+      "properties": {
+        "name": "Aumaque",
+        "category": "Puits d'exploration",
+        "status": "Abandonné",
+        "commodity": "GOLD",
+        "last_year": null,
+        "description": "Abandonné · Commodity: GOLD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.717999,
+          48.089125
+        ]
+      },
+      "properties": {
+        "name": "Aumaque",
+        "category": "Puits d'exploration",
+        "status": "Abandonné",
+        "commodity": "SILVER",
+        "last_year": null,
+        "description": "Abandonné · Commodity: SILVER"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.717999,
+          48.089125
+        ]
+      },
+      "properties": {
+        "name": "Aumaque",
+        "category": "Puits d'exploration",
+        "status": "Abandonné",
+        "commodity": "COPPER",
+        "last_year": null,
+        "description": "Abandonné · Commodity: COPPER"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.44302,
+          45.722846
+        ]
+      },
+      "properties": {
+        "name": "Back (Lac Smith)",
+        "category": "À ciel ouvert",
+        "status": "Abandonné",
+        "commodity": "FELDSPAR",
+        "last_year": "1955.0",
+        "description": "Abandonné · Commodity: FELDSPAR · Last operation: 1955.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.44302,
+          45.722846
+        ]
+      },
+      "properties": {
+        "name": "Back (Lac Smith)",
+        "category": "Souterrainee",
+        "status": "Abandonné",
+        "commodity": "FELDSPAR",
+        "last_year": "1955.0",
+        "description": "Abandonné · Commodity: FELDSPAR · Last operation: 1955.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.115495,
+          48.12955
+        ]
+      },
+      "properties": {
+        "name": "Barnat",
+        "category": "À ciel ouvert",
+        "status": "Abandonné",
+        "commodity": "GOLD",
+        "last_year": "1970.0",
+        "description": "Abandonné · Commodity: GOLD · Last operation: 1970.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.115495,
+          48.12955
+        ]
+      },
+      "properties": {
+        "name": "Barnat",
+        "category": "Puits",
+        "status": "Abandonné",
+        "commodity": "GOLD",
+        "last_year": "1970.0",
+        "description": "Abandonné · Commodity: GOLD · Last operation: 1970.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.65549,
+          48.525766
+        ]
+      },
+      "properties": {
+        "name": "Barvue",
+        "category": "À ciel ouvert",
+        "status": "Abandonné",
+        "commodity": "ZINC",
+        "last_year": "1990.0",
+        "description": "Abandonné · Commodity: ZINC · Last operation: 1990.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.65549,
+          48.525766
+        ]
+      },
+      "properties": {
+        "name": "Barvue",
+        "category": "À ciel ouvert",
+        "status": "Abandonné",
+        "commodity": "SILVER",
+        "last_year": "1990.0",
+        "description": "Abandonné · Commodity: SILVER · Last operation: 1990.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.914255,
+          48.46757
+        ]
+      },
+      "properties": {
+        "name": "Bassignac",
+        "category": "Galerie d'accès",
+        "status": "Abandonné",
+        "commodity": "GOLD",
+        "last_year": "1988.0",
+        "description": "Abandonné · Commodity: GOLD · Last operation: 1988.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.234708,
+          48.510082
+        ]
+      },
+      "properties": {
+        "name": "Beattie (parc)",
+        "category": null,
+        "status": "Abandonné",
+        "commodity": "GOLD",
+        "last_year": "1956.0",
+        "description": "Abandonné · Commodity: GOLD · Last operation: 1956.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.234708,
+          48.510082
+        ]
+      },
+      "properties": {
+        "name": "Beattie (parc)",
+        "category": null,
+        "status": "Abandonné",
+        "commodity": "SILVER",
+        "last_year": "1956.0",
+        "description": "Abandonné · Commodity: SILVER · Last operation: 1956.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.161952,
+          48.124995
+        ]
+      },
+      "properties": {
+        "name": "Carrière Beaudry",
+        "category": "Puits",
+        "status": "Abandonné",
+        "commodity": "ZINC",
+        "last_year": "1979.0",
+        "description": "Abandonné · Commodity: ZINC · Last operation: 1979.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.161952,
+          48.124995
+        ]
+      },
+      "properties": {
+        "name": "Carrière Beaudry",
+        "category": "Fosse",
+        "status": "Abandonné",
+        "commodity": "LEAD",
+        "last_year": "1979.0",
+        "description": "Abandonné · Commodity: LEAD · Last operation: 1979.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.5534,
+          45.637585
+        ]
+      },
+      "properties": {
+        "name": "Beaudry, G",
+        "category": "Fosse",
+        "status": "Abandonné",
+        "commodity": "MICA",
+        "last_year": null,
+        "description": "Abandonné · Commodity: MICA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.666833,
+          47.41775
+        ]
+      },
+      "properties": {
+        "name": "Belleterre (instrastructures)",
+        "category": "Puits",
+        "status": "Abandonné",
+        "commodity": "GOLD",
+        "last_year": "1958.0",
+        "description": "Abandonné · Commodity: GOLD · Last operation: 1958.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.455635,
+          45.731815
+        ]
+      },
+      "properties": {
+        "name": "Bertrand",
+        "category": "Souterrainee",
+        "status": "Abandonné",
+        "commodity": "FELDSPAR",
+        "last_year": "1965.0",
+        "description": "Abandonné · Commodity: FELDSPAR · Last operation: 1965.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.422127,
+          48.098176
+        ]
+      },
+      "properties": {
+        "name": "Bevcon ",
+        "category": "Puits",
+        "status": "Abandonné",
+        "commodity": "GOLD",
+        "last_year": "1965.0",
+        "description": "Abandonné · Commodity: GOLD · Last operation: 1965.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.072036,
+          48.16528
+        ]
+      },
+      "properties": {
+        "name": "Black Cliff",
+        "category": "Puits",
+        "status": "Abandonné",
+        "commodity": "GOLD",
+        "last_year": null,
+        "description": "Abandonné · Commodity: GOLD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.609461,
+          45.636571
+        ]
+      },
+      "properties": {
+        "name": "Blackburn (North Hill)",
+        "category": "Puits",
+        "status": "Abandonné",
+        "commodity": "APATITE",
+        "last_year": "1940.0",
+        "description": "Abandonné · Commodity: APATITE · Last operation: 1940.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.609461,
+          45.636571
+        ]
+      },
+      "properties": {
+        "name": "Blackburn (North Hill)",
+        "category": "Puits",
+        "status": "Abandonné",
+        "commodity": "MICA",
+        "last_year": "1941.0",
+        "description": "Abandonné · Commodity: MICA · Last operation: 1941.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.793393,
+          45.554883
+        ]
+      },
+      "properties": {
+        "name": "Blackburn (Vavasour)",
+        "category": "Fosse",
+        "status": "Abandonné",
+        "commodity": "APATITE",
+        "last_year": "1894.0",
+        "description": "Abandonné · Commodity: APATITE · Last operation: 1894.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.190323,
+          49.180552
+        ]
+      },
+      "properties": {
+        "name": "Blairdon",
+        "category": "Puits",
+        "status": "Abandonné",
+        "commodity": "GOLD",
+        "last_year": "1938.0",
+        "description": "Abandonné · Commodity: GOLD · Last operation: 1938.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.738117,
+          47.403918
+        ]
+      },
+      "properties": {
+        "name": "Blondeau",
+        "category": "Petite fosse",
+        "status": "Abandonné",
+        "commodity": "GOLD",
+        "last_year": "1995.0",
+        "description": "Abandonné · Commodity: GOLD · Last operation: 1995.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.738117,
+          47.403918
+        ]
+      },
+      "properties": {
+        "name": "Blondeau",
+        "category": "Tranchée",
+        "status": "Abandonné",
+        "commodity": "GOLD",
+        "last_year": "1995.0",
+        "description": "Abandonné · Commodity: GOLD · Last operation: 1995.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.822311,
+          45.427435
+        ]
+      },
+      "properties": {
+        "name": "Boudreau",
+        "category": "Puits",
+        "status": "Abandonné",
+        "commodity": null,
+        "last_year": null,
+        "description": "Abandonné"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.4396,
+          48.231819
+        ]
+      },
+      "properties": {
+        "name": "Bouscadillac",
+        "category": "Puits",
+        "status": "Abandonné",
+        "commodity": "GOLD",
+        "last_year": "1924.0",
+        "description": "Abandonné · Commodity: GOLD · Last operation: 1924.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.436793,
+          45.907503
+        ]
+      },
+      "properties": {
+        "name": "Breeches-Est",
+        "category": "Fosse",
+        "status": "Abandonné",
+        "commodity": "ASBESTOS",
+        "last_year": "1960.0",
+        "description": "Abandonné · Commodity: ASBESTOS · Last operation: 1960.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.48661,
+          48.095082
+        ]
+      },
+      "properties": {
+        "name": "Buffadison",
+        "category": "Puits",
+        "status": "Abandonné",
+        "commodity": "GOLD",
+        "last_year": "1963.0",
+        "description": "Abandonné · Commodity: GOLD · Last operation: 1963.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.111022,
+          48.120646
+        ]
+      },
+      "properties": {
+        "name": "Canadian Malartic C ",
+        "category": "À ciel ouvert",
+        "status": "Abandonné",
+        "commodity": "GOLD",
+        "last_year": "1965.0",
+        "description": "Abandonné · Commodity: GOLD · Last operation: 1965.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.06491,
+          49.062016
+        ]
+      },
+      "properties": {
+        "name": "Candego ",
+        "category": "Souterrainee",
+        "status": "Abandonné",
+        "commodity": "ZINC",
+        "last_year": "1954.0",
+        "description": "Abandonné · Commodity: ZINC · Last operation: 1954.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.06491,
+          49.062016
+        ]
+      },
+      "properties": {
+        "name": "Candego ",
+        "category": "Souterrainee",
+        "status": "Abandonné",
+        "commodity": "LEAD",
+        "last_year": "1954.0",
+        "description": "Abandonné · Commodity: LEAD · Last operation: 1954.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.06491,
+          49.062016
+        ]
+      },
+      "properties": {
+        "name": "Candego ",
+        "category": "Souterrainee",
+        "status": "Abandonné",
+        "commodity": "SILVER",
+        "last_year": "1954.0",
+        "description": "Abandonné · Commodity: SILVER · Last operation: 1954.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.907547,
+          45.321013
+        ]
+      },
+      "properties": {
+        "name": "Capelton ",
+        "category": "Puits",
+        "status": "Abandonné",
+        "commodity": "COPPER",
+        "last_year": "1907.0",
+        "description": "Abandonné · Commodity: COPPER · Last operation: 1907.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.91556,
+          49.306266
+        ]
+      },
+      "properties": {
+        "name": "Cartwright",
+        "category": "Puits",
+        "status": "Abandonné",
+        "commodity": "GOLD",
+        "last_year": "1941.0",
+        "description": "Abandonné · Commodity: GOLD · Last operation: 1941.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.309118,
+          49.891085
+        ]
+      },
+      "properties": {
+        "name": "Cedar Bay",
+        "category": "Puits",
+        "status": "Abandonné",
+        "commodity": "GOLD",
+        "last_year": "1990.0",
+        "description": "Abandonné · Commodity: GOLD · Last operation: 1990.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.309118,
+          49.891085
+        ]
+      },
+      "properties": {
+        "name": "Cedar Bay",
+        "category": "Puits",
+        "status": "Abandonné",
+        "commodity": "COPPER",
+        "last_year": "1990.0",
+        "description": "Abandonné · Commodity: COPPER · Last operation: 1990.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.072394,
+          49.413247
+        ]
+      },
+      "properties": {
+        "name": "Certac",
+        "category": "Galerie d'accès",
+        "status": "Abandonné",
+        "commodity": "GOLD",
+        "last_year": "1980.0",
+        "description": "Abandonné · Commodity: GOLD · Last operation: 1980.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.072394,
+          49.413247
+        ]
+      },
+      "properties": {
+        "name": "Certac",
+        "category": "Souterraine",
+        "status": "Abandonné",
+        "commodity": "COPPER",
+        "last_year": "1980.0",
+        "description": "Abandonné · Commodity: COPPER · Last operation: 1980.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.452959,
+          45.664652
+        ]
+      },
+      "properties": {
+        "name": "Charbonneau",
+        "category": "Fosse",
+        "status": "Abandonné",
+        "commodity": null,
+        "last_year": null,
+        "description": "Abandonné"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.502205,
+          49.453141
+        ]
+      },
+      "properties": {
+        "name": "Chesbar",
+        "category": "À ciel ouvert",
+        "status": "Abandonné",
+        "commodity": "IRON",
+        "last_year": "1971.0",
+        "description": "Abandonné · Commodity: IRON · Last operation: 1971.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.252816,
+          48.011535
+        ]
+      },
+      "properties": {
+        "name": "Chimo",
+        "category": "Puits",
+        "status": "Abandonné",
+        "commodity": "GOLD",
+        "last_year": "1997.0",
+        "description": "Abandonné · Commodity: GOLD · Last operation: 1997.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.470363,
+          45.948923
+        ]
+      },
+      "properties": {
+        "name": "Chrysotile (Belmina)",
+        "category": "Puits",
+        "status": "Abandonné",
+        "commodity": "ASBESTOS",
+        "last_year": "1918.0",
+        "description": "Abandonné · Commodity: ASBESTOS · Last operation: 1918.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.470363,
+          45.948923
+        ]
+      },
+      "properties": {
+        "name": "Chrysotile (Belmina)",
+        "category": "Puits",
+        "status": "Abandonné",
+        "commodity": "CHROMIUM",
+        "last_year": "1918.0",
+        "description": "Abandonné · Commodity: CHROMIUM · Last operation: 1918.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.825185,
+          48.295304
+        ]
+      },
+      "properties": {
+        "name": "Claremont",
+        "category": "Puits",
+        "status": "Abandonné",
+        "commodity": "GOLD",
+        "last_year": "1937.0",
+        "description": "Abandonné · Commodity: GOLD · Last operation: 1937.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.882191,
+          45.361938
+        ]
+      },
+      "properties": {
+        "name": "Clark",
+        "category": "Puits",
+        "status": "Abandonné",
+        "commodity": "COPPER",
+        "last_year": "1866.0",
+        "description": "Abandonné · Commodity: COPPER · Last operation: 1866.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.90411,
+          48.644035
+        ]
+      },
+      "properties": {
+        "name": "Claverny",
+        "category": "Souterraine",
+        "status": "Abandonné",
+        "commodity": "GOLD",
+        "last_year": null,
+        "description": "Abandonné · Commodity: GOLD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.90411,
+          48.644035
+        ]
+      },
+      "properties": {
+        "name": "Claverny",
+        "category": "Puits",
+        "status": "Abandonné",
+        "commodity": "GOLD",
+        "last_year": null,
+        "description": "Abandonné · Commodity: GOLD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.927909,
+          45.42345
+        ]
+      },
+      "properties": {
+        "name": "Clinton",
+        "category": "Galerie d'accès",
+        "status": "Abandonné",
+        "commodity": "ZINC",
+        "last_year": "1975.0",
+        "description": "Abandonné · Commodity: ZINC · Last operation: 1975.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.927909,
+          45.42345
+        ]
+      },
+      "properties": {
+        "name": "Clinton",
+        "category": "Fosse",
+        "status": "Abandonné",
+        "commodity": "COPPER",
+        "last_year": "1975.0",
+        "description": "Abandonné · Commodity: COPPER · Last operation: 1975.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.927909,
+          45.42345
+        ]
+      },
+      "properties": {
+        "name": "Clinton",
+        "category": "Fosse",
+        "status": "Abandonné",
+        "commodity": "SILVER",
+        "last_year": "1975.0",
+        "description": "Abandonné · Commodity: SILVER · Last operation: 1975.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.927909,
+          45.42345
+        ]
+      },
+      "properties": {
+        "name": "Clinton",
+        "category": "Fosse",
+        "status": "Abandonné",
+        "commodity": "GOLD",
+        "last_year": "1975.0",
+        "description": "Abandonné · Commodity: GOLD · Last operation: 1975.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.747429,
+          45.945158
+        ]
+      },
+      "properties": {
+        "name": "Consumers Industrial",
+        "category": "Fosse",
+        "status": "Abandonné",
+        "commodity": "SILICA",
+        "last_year": "1948.0",
+        "description": "Abandonné · Commodity: SILICA · Last operation: 1948.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.39366,
+          45.983499
+        ]
+      },
+      "properties": {
+        "name": "Continental ",
+        "category": "À ciel ouvert",
+        "status": "Abandonné",
+        "commodity": "ASBESTOS",
+        "last_year": "1952.0",
+        "description": "Abandonné · Commodity: ASBESTOS · Last operation: 1952.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.303105,
+          49.897794
+        ]
+      },
+      "properties": {
+        "name": "Copper Cliff",
+        "category": "Puits",
+        "status": "Abandonné",
+        "commodity": "COPPER",
+        "last_year": "1974.0",
+        "description": "Abandonné · Commodity: COPPER · Last operation: 1974.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.303105,
+          49.897794
+        ]
+      },
+      "properties": {
+        "name": "Copper Cliff",
+        "category": "Puits",
+        "status": "Abandonné",
+        "commodity": "GOLD",
+        "last_year": "1974.0",
+        "description": "Abandonné · Commodity: GOLD · Last operation: 1974.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.303105,
+          49.897794
+        ]
+      },
+      "properties": {
+        "name": "Copper Cliff",
+        "category": "Puits",
+        "status": "Abandonné",
+        "commodity": "SILVER",
+        "last_year": "1974.0",
+        "description": "Abandonné · Commodity: SILVER · Last operation: 1974.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.913334,
+          45.768077
+        ]
+      },
+      "properties": {
+        "name": "Copperstream",
+        "category": "Puits",
+        "status": "Abandonné",
+        "commodity": "MOLYBDENUM",
+        "last_year": "1941.0",
+        "description": "Abandonné · Commodity: MOLYBDENUM · Last operation: 1941.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.913334,
+          45.768077
+        ]
+      },
+      "properties": {
+        "name": "Copperstream",
+        "category": "Souterraine",
+        "status": "Abandonné",
+        "commodity": "COPPER",
+        "last_year": "1941.0",
+        "description": "Abandonné · Commodity: COPPER · Last operation: 1941.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.540431,
+          48.134212
+        ]
+      },
+      "properties": {
+        "name": "Cournor",
+        "category": "Puits",
+        "status": "Abandonné",
+        "commodity": "GOLD",
+        "last_year": "1942.0",
+        "description": "Abandonné · Commodity: GOLD · Last operation: 1942.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.540431,
+          48.134212
+        ]
+      },
+      "properties": {
+        "name": "Cournor",
+        "category": "Fosse",
+        "status": "Abandonné",
+        "commodity": "GOLD",
+        "last_year": "1942.0",
+        "description": "Abandonné · Commodity: GOLD · Last operation: 1942.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.309762,
+          45.769568
+        ]
+      },
+      "properties": {
+        "name": "Cupra",
+        "category": "Puits",
+        "status": "Abandonné",
+        "commodity": "ZINC",
+        "last_year": "1977.0",
+        "description": "Abandonné · Commodity: ZINC · Last operation: 1977.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.309762,
+          45.769568
+        ]
+      },
+      "properties": {
+        "name": "Cupra",
+        "category": "Puits",
+        "status": "Abandonné",
+        "commodity": "COPPER",
+        "last_year": "1977.0",
+        "description": "Abandonné · Commodity: COPPER · Last operation: 1977.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.309762,
+          45.769568
+        ]
+      },
+      "properties": {
+        "name": "Cupra",
+        "category": "Puits",
+        "status": "Abandonné",
+        "commodity": "SILVER",
+        "last_year": "1977.0",
+        "description": "Abandonné · Commodity: SILVER · Last operation: 1977.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.309762,
+          45.769568
+        ]
+      },
+      "properties": {
+        "name": "Cupra",
+        "category": "Puits",
+        "status": "Abandonné",
+        "commodity": "LEAD",
+        "last_year": "1977.0",
+        "description": "Abandonné · Commodity: LEAD · Last operation: 1977.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.398861,
+          48.233675
+        ]
+      },
+      "properties": {
+        "name": "Darius (O'Brien)",
+        "category": "Puits",
+        "status": "Abandonné",
+        "commodity": "GOLD",
+        "last_year": "1981.0",
+        "description": "Abandonné · Commodity: GOLD · Last operation: 1981.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.583797,
+          45.673429
+        ]
+      },
+      "properties": {
+        "name": "David Hodgkin",
+        "category": "Fosse",
+        "status": "Abandonné",
+        "commodity": null,
+        "last_year": null,
+        "description": "Abandonné"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.964106,
+          48.265854
+        ]
+      },
+      "properties": {
+        "name": "Delbridge",
+        "category": "Puits",
+        "status": "Abandonné",
+        "commodity": "ZINC",
+        "last_year": "1971.0",
+        "description": "Abandonné · Commodity: ZINC · Last operation: 1971.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.964106,
+          48.265854
+        ]
+      },
+      "properties": {
+        "name": "Delbridge",
+        "category": "Puits",
+        "status": "Abandonné",
+        "commodity": "GOLD",
+        "last_year": "1971.0",
+        "description": "Abandonné · Commodity: GOLD · Last operation: 1971.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.964106,
+          48.265854
+        ]
+      },
+      "properties": {
+        "name": "Delbridge",
+        "category": "Puits",
+        "status": "Abandonné",
+        "commodity": "COPPER",
+        "last_year": "1971.0",
+        "description": "Abandonné · Commodity: COPPER · Last operation: 1971.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.964106,
+          48.265854
+        ]
+      },
+      "properties": {
+        "name": "Delbridge",
+        "category": "Puits",
+        "status": "Abandonné",
+        "commodity": "SILVER",
+        "last_year": "1971.0",
+        "description": "Abandonné · Commodity: SILVER · Last operation: 1971.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.103839,
+          47.978028
+        ]
+      },
+      "properties": {
+        "name": "Denain",
+        "category": "Fosse",
+        "status": "Abandonné",
+        "commodity": null,
+        "last_year": null,
+        "description": "Abandonné"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.46441,
+          45.706559
+        ]
+      },
+      "properties": {
+        "name": "Derry (Ceremco)",
+        "category": "Fosse",
+        "status": "Abandonné",
+        "commodity": "FELDSPAR",
+        "last_year": "1962.0",
+        "description": "Abandonné · Commodity: FELDSPAR · Last operation: 1962.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.46441,
+          45.706559
+        ]
+      },
+      "properties": {
+        "name": "Derry (Ceremco)",
+        "category": "Fosse",
+        "status": "Abandonné",
+        "commodity": "QUARTZITE",
+        "last_year": "1962.0",
+        "description": "Abandonné · Commodity: QUARTZITE · Last operation: 1962.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.46441,
+          45.706559
+        ]
+      },
+      "properties": {
+        "name": "Derry (Ceremco)",
+        "category": "Fosse",
+        "status": "Abandonné",
+        "commodity": "GARNET",
+        "last_year": "1962.0",
+        "description": "Abandonné · Commodity: GARNET · Last operation: 1962.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.543153,
+          46.35743
+        ]
+      },
+      "properties": {
+        "name": "Diotte",
+        "category": "Fosse",
+        "status": "Abandonné",
+        "commodity": "GRAPHITE",
+        "last_year": "1989.0",
+        "description": "Abandonné · Commodity: GRAPHITE · Last operation: 1989.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.986158,
+          48.262643
+        ]
+      },
+      "properties": {
+        "name": "Donalda",
+        "category": "Puits",
+        "status": "Abandonné",
+        "commodity": "GOLD",
+        "last_year": "1996.0",
+        "description": "Abandonné · Commodity: GOLD · Last operation: 1996.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.55679,
+          48.103913
+        ]
+      },
+      "properties": {
+        "name": "Dorval-Beacon (parc)",
+        "category": null,
+        "status": "Abandonné",
+        "commodity": "GOLD",
+        "last_year": null,
+        "description": "Abandonné · Commodity: GOLD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.426546,
+          48.889396
+        ]
+      },
+      "properties": {
+        "name": "Duvan Copper",
+        "category": "Puits",
+        "status": "Abandonné",
+        "commodity": "COPPER",
+        "last_year": "1960.0",
+        "description": "Abandonné · Commodity: COPPER · Last operation: 1960.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.426546,
+          48.889396
+        ]
+      },
+      "properties": {
+        "name": "Duvan Copper",
+        "category": "Puits",
+        "status": "Abandonné",
+        "commodity": "SILVER",
+        "last_year": "1960.0",
+        "description": "Abandonné · Commodity: SILVER · Last operation: 1960.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.190261,
+          46.645922
+        ]
+      },
+      "properties": {
+        "name": "Eastern Metal ",
+        "category": "Puits",
+        "status": "Abandonné",
+        "commodity": "COPPER",
+        "last_year": "1988.0",
+        "description": "Abandonné · Commodity: COPPER · Last operation: 1988.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.190261,
+          46.645922
+        ]
+      },
+      "properties": {
+        "name": "Eastern Metal ",
+        "category": "Puits",
+        "status": "Abandonné",
+        "commodity": "NICKEL",
+        "last_year": "1988.0",
+        "description": "Abandonné · Commodity: NICKEL · Last operation: 1988.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.190261,
+          46.645922
+        ]
+      },
+      "properties": {
+        "name": "Eastern Metal ",
+        "category": "Puits",
+        "status": "Abandonné",
+        "commodity": "ZINC",
+        "last_year": "1988.0",
+        "description": "Abandonné · Commodity: ZINC · Last operation: 1988.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.190261,
+          46.645922
+        ]
+      },
+      "properties": {
+        "name": "Eastern Metal ",
+        "category": "Puits",
+        "status": "Abandonné",
+        "commodity": "SILVER",
+        "last_year": "1988.0",
+        "description": "Abandonné · Commodity: SILVER · Last operation: 1988.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.190261,
+          46.645922
+        ]
+      },
+      "properties": {
+        "name": "Eastern Metal ",
+        "category": "Puits",
+        "status": "Abandonné",
+        "commodity": "GOLD",
+        "last_year": "1988.0",
+        "description": "Abandonné · Commodity: GOLD · Last operation: 1988.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.0886,
+          48.131193
+        ]
+      },
+      "properties": {
+        "name": "East-Malartic",
+        "category": "Puits",
+        "status": "Abandonné",
+        "commodity": "GOLD",
+        "last_year": "1979.0",
+        "description": "Abandonné · Commodity: GOLD · Last operation: 1979.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.711626,
+          48.071117
+        ]
+      },
+      "properties": {
+        "name": "East-Sullivan",
+        "category": "À ciel ouvert",
+        "status": "Abandonné",
+        "commodity": "COPPER",
+        "last_year": "1967.0",
+        "description": "Abandonné · Commodity: COPPER · Last operation: 1967.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.711626,
+          48.071117
+        ]
+      },
+      "properties": {
+        "name": "East-Sullivan",
+        "category": "À ciel ouvert",
+        "status": "Abandonné",
+        "commodity": "ZINC",
+        "last_year": "1967.0",
+        "description": "Abandonné · Commodity: ZINC · Last operation: 1967.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.711626,
+          48.071117
+        ]
+      },
+      "properties": {
+        "name": "East-Sullivan",
+        "category": "À ciel ouvert",
+        "status": "Abandonné",
+        "commodity": "SILVER",
+        "last_year": "1967.0",
+        "description": "Abandonné · Commodity: SILVER · Last operation: 1967.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.076464,
+          48.343456
+        ]
+      },
+      "properties": {
+        "name": "East-Waite",
+        "category": "Puits",
+        "status": "Abandonné",
+        "commodity": "COPPER",
+        "last_year": "1961.0",
+        "description": "Abandonné · Commodity: COPPER · Last operation: 1961.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.076464,
+          48.343456
+        ]
+      },
+      "properties": {
+        "name": "East-Waite",
+        "category": "Puits",
+        "status": "Abandonné",
+        "commodity": "ZINC",
+        "last_year": "1961.0",
+        "description": "Abandonné · Commodity: ZINC · Last operation: 1961.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.076464,
+          48.343456
+        ]
+      },
+      "properties": {
+        "name": "East-Waite",
+        "category": "Puits",
+        "status": "Abandonné",
+        "commodity": "GOLD",
+        "last_year": "1961.0",
+        "description": "Abandonné · Commodity: GOLD · Last operation: 1961.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.488677,
+          45.690257
+        ]
+      },
+      "properties": {
+        "name": "Emerald",
+        "category": "Fosse",
+        "status": "Abandonné",
+        "commodity": "APATITE",
+        "last_year": "1945.0",
+        "description": "Abandonné · Commodity: APATITE · Last operation: 1945.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.488677,
+          45.690257
+        ]
+      },
+      "properties": {
+        "name": "Emerald",
+        "category": "Souterraine",
+        "status": "Abandonné",
+        "commodity": "APATITE",
+        "last_year": "1945.0",
+        "description": "Abandonné · Commodity: APATITE · Last operation: 1945.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.920685,
+          45.317212
+        ]
+      },
+      "properties": {
+        "name": "Eustis",
+        "category": "Puits",
+        "status": "Abandonné",
+        "commodity": "COPPER",
+        "last_year": "1939.0",
+        "description": "Abandonné · Commodity: COPPER · Last operation: 1939.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.920685,
+          45.317212
+        ]
+      },
+      "properties": {
+        "name": "Eustis",
+        "category": "Puits",
+        "status": "Abandonné",
+        "commodity": "ZINC",
+        "last_year": "1939.0",
+        "description": "Abandonné · Commodity: ZINC · Last operation: 1939.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.920685,
+          45.317212
+        ]
+      },
+      "properties": {
+        "name": "Eustis",
+        "category": "Puits",
+        "status": "Abandonné",
+        "commodity": "SILVER",
+        "last_year": "1939.0",
+        "description": "Abandonné · Commodity: SILVER · Last operation: 1939.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.511698,
+          45.623315
+        ]
+      },
+      "properties": {
+        "name": "Evans Cameron",
+        "category": "Fosse",
+        "status": "Abandonné",
+        "commodity": "FELDSPAR",
+        "last_year": "1940.0",
+        "description": "Abandonné · Commodity: FELDSPAR · Last operation: 1940.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.511698,
+          45.623315
+        ]
+      },
+      "properties": {
+        "name": "Evans Cameron",
+        "category": "Fosse",
+        "status": "Abandonné",
+        "commodity": "GARNET",
+        "last_year": "1940.0",
+        "description": "Abandonné · Commodity: GARNET · Last operation: 1940.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.511698,
+          45.623315
+        ]
+      },
+      "properties": {
+        "name": "Evans Cameron",
+        "category": "Fosse",
+        "status": "Abandonné",
+        "commodity": "QUARTZITE",
+        "last_year": "1940.0",
+        "description": "Abandonné · Commodity: QUARTZITE · Last operation: 1940.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.188309,
+          48.791576
+        ]
+      },
+      "properties": {
+        "name": "Federal 22B16",
+        "category": "Souterraine",
+        "status": "Abandonné",
+        "commodity": "ZINC",
+        "last_year": "1945.0",
+        "description": "Abandonné · Commodity: ZINC · Last operation: 1945.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.188309,
+          48.791576
+        ]
+      },
+      "properties": {
+        "name": "Federal 22B16",
+        "category": "Puits",
+        "status": "Abandonné",
+        "commodity": "LEAD",
+        "last_year": "1945.0",
+        "description": "Abandonné · Commodity: LEAD · Last operation: 1945.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.188309,
+          48.791576
+        ]
+      },
+      "properties": {
+        "name": "Federal 22B16",
+        "category": "Puits",
+        "status": "Abandonné",
+        "commodity": "SILVER",
+        "last_year": "1945.0",
+        "description": "Abandonné · Commodity: SILVER · Last operation: 1945.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.789573,
+          48.490417
+        ]
+      },
+      "properties": {
+        "name": "Fisher",
+        "category": "Puits",
+        "status": "Abandonné",
+        "commodity": "GOLD",
+        "last_year": "1928.0",
+        "description": "Abandonné · Commodity: GOLD · Last operation: 1928.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.94331,
+          49.310138
+        ]
+      },
+      "properties": {
+        "name": "Flordin",
+        "category": "Galerie d'accès",
+        "status": "Abandonné",
+        "commodity": "GOLD",
+        "last_year": "1989.0",
+        "description": "Abandonné · Commodity: GOLD · Last operation: 1989.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.919452,
+          48.646382
+        ]
+      },
+      "properties": {
+        "name": "Fontana",
+        "category": "Puits",
+        "status": "Abandonné",
+        "commodity": "GOLD",
+        "last_year": null,
+        "description": "Abandonné · Commodity: GOLD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.09924,
+          48.499098
+        ]
+      },
+      "properties": {
+        "name": "Garney",
+        "category": "Puits",
+        "status": "Abandonné",
+        "commodity": "GOLD",
+        "last_year": "1938.0",
+        "description": "Abandonné · Commodity: GOLD · Last operation: 1938.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.09924,
+          48.499098
+        ]
+      },
+      "properties": {
+        "name": "Garney",
+        "category": "Puits",
+        "status": "Abandonné",
+        "commodity": "SILVER",
+        "last_year": "1938.0",
+        "description": "Abandonné · Commodity: SILVER · Last operation: 1938.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.472686,
+          45.682493
+        ]
+      },
+      "properties": {
+        "name": "Gauthier (Marcel)",
+        "category": "Fosse",
+        "status": "Abandonné",
+        "commodity": "FELDSPAR",
+        "last_year": null,
+        "description": "Abandonné · Commodity: FELDSPAR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.472686,
+          45.682493
+        ]
+      },
+      "properties": {
+        "name": "Gauthier (Marcel)",
+        "category": "Fosse",
+        "status": "Abandonné",
+        "commodity": "QUARTZITE",
+        "last_year": null,
+        "description": "Abandonné · Commodity: QUARTZITE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.757775,
+          45.673937
+        ]
+      },
+      "properties": {
+        "name": "Gemmil",
+        "category": "Souterraine",
+        "status": "Abandonné",
+        "commodity": "APATITE",
+        "last_year": "1886.0",
+        "description": "Abandonné · Commodity: APATITE · Last operation: 1886.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.757775,
+          45.673937
+        ]
+      },
+      "properties": {
+        "name": "Gemmil",
+        "category": "Puits",
+        "status": "Abandonné",
+        "commodity": "APATITE",
+        "last_year": "1886.0",
+        "description": "Abandonné · Commodity: APATITE · Last operation: 1886.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.027052,
+          48.181458
+        ]
+      },
+      "properties": {
+        "name": "Granada (ancien parc)",
+        "category": null,
+        "status": "Abandonné",
+        "commodity": "GOLD",
+        "last_year": "1935.0",
+        "description": "Abandonné · Commodity: GOLD · Last operation: 1935.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.410718,
+          46.002878
+        ]
+      },
+      "properties": {
+        "name": "Grand-Père",
+        "category": "Galerie d'accès",
+        "status": "Abandonné",
+        "commodity": null,
+        "last_year": null,
+        "description": "Abandonné"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.200223,
+          49.930409
+        ]
+      },
+      "properties": {
+        "name": "GrandRoy",
+        "category": "À ciel ouvert",
+        "status": "Abandonné",
+        "commodity": "COPPER",
+        "last_year": "1975.0",
+        "description": "Abandonné · Commodity: COPPER · Last operation: 1975.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.200223,
+          49.930409
+        ]
+      },
+      "properties": {
+        "name": "GrandRoy",
+        "category": "Galerie d'accès",
+        "status": "Abandonné",
+        "commodity": "GOLD",
+        "last_year": "1975.0",
+        "description": "Abandonné · Commodity: GOLD · Last operation: 1975.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.48677,
+          45.692615
+        ]
+      },
+      "properties": {
+        "name": "Grant",
+        "category": "Puits",
+        "status": "Abandonné",
+        "commodity": "APATITE",
+        "last_year": "1945.0",
+        "description": "Abandonné · Commodity: APATITE · Last operation: 1945.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.48677,
+          45.692615
+        ]
+      },
+      "properties": {
+        "name": "Grant",
+        "category": "Galerie d'accès",
+        "status": "Abandonné",
+        "commodity": "APATITE",
+        "last_year": "1945.0",
+        "description": "Abandonné · Commodity: APATITE · Last operation: 1945.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.277559,
+          48.177028
+        ]
+      },
+      "properties": {
+        "name": "Guinard",
+        "category": "Puits",
+        "status": "Abandonné",
+        "commodity": "GOLD",
+        "last_year": null,
+        "description": "Abandonné · Commodity: GOLD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.277559,
+          48.177028
+        ]
+      },
+      "properties": {
+        "name": "Guinard",
+        "category": "Puits",
+        "status": "Abandonné",
+        "commodity": "COPPER",
+        "last_year": null,
+        "description": "Abandonné · Commodity: COPPER"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.184312,
+          48.25378
+        ]
+      },
+      "properties": {
+        "name": "Halliwell",
+        "category": "Puits",
+        "status": "Abandonné",
+        "commodity": "GOLD",
+        "last_year": "1938.0",
+        "description": "Abandonné · Commodity: GOLD · Last operation: 1938.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.184312,
+          48.25378
+        ]
+      },
+      "properties": {
+        "name": "Halliwell",
+        "category": "Puits",
+        "status": "Abandonné",
+        "commodity": "COPPER",
+        "last_year": "1938.0",
+        "description": "Abandonné · Commodity: COPPER · Last operation: 1938.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.21002,
+          46.267058
+        ]
+      },
+      "properties": {
+        "name": "Harvey Hill (parc)",
+        "category": null,
+        "status": "Abandonné",
+        "commodity": "COPPER",
+        "last_year": "1982.0",
+        "description": "Abandonné · Commodity: COPPER · Last operation: 1982.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.21002,
+          46.267058
+        ]
+      },
+      "properties": {
+        "name": "Harvey Hill (parc)",
+        "category": null,
+        "status": "Abandonné",
+        "commodity": "SILVER",
+        "last_year": "1982.0",
+        "description": "Abandonné · Commodity: SILVER · Last operation: 1982.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.629063,
+          45.788578
+        ]
+      },
+      "properties": {
+        "name": "High Rock",
+        "category": "Souterraine",
+        "status": "Abandonné",
+        "commodity": "APATITE",
+        "last_year": "1943.0",
+        "description": "Abandonné · Commodity: APATITE · Last operation: 1943.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.45748,
+          45.017352
+        ]
+      },
+      "properties": {
+        "name": "HighWater",
+        "category": "Galerie d'accès",
+        "status": "Abandonné",
+        "commodity": "LEAD",
+        "last_year": "1996.0",
+        "description": "Abandonné · Commodity: LEAD · Last operation: 1996.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.45748,
+          45.017352
+        ]
+      },
+      "properties": {
+        "name": "HighWater",
+        "category": "Galerie d'accès",
+        "status": "Abandonné",
+        "commodity": "ZINC",
+        "last_year": "1996.0",
+        "description": "Abandonné · Commodity: ZINC · Last operation: 1996.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.45748,
+          45.017352
+        ]
+      },
+      "properties": {
+        "name": "HighWater",
+        "category": "Galerie d'accès",
+        "status": "Abandonné",
+        "commodity": "SILVER",
+        "last_year": "1996.0",
+        "description": "Abandonné · Commodity: SILVER · Last operation: 1996.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.341779,
+          45.502051
+        ]
+      },
+      "properties": {
+        "name": "Hilton",
+        "category": "À ciel ouvert",
+        "status": "Abandonné",
+        "commodity": "IRON",
+        "last_year": "1977.0",
+        "description": "Abandonné · Commodity: IRON · Last operation: 1977.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.839468,
+          45.622508
+        ]
+      },
+      "properties": {
+        "name": "Horse Shoe",
+        "category": "Souterraine",
+        "status": "Abandonné",
+        "commodity": "APATITE",
+        "last_year": "1939.0",
+        "description": "Abandonné · Commodity: APATITE · Last operation: 1939.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.839468,
+          45.622508
+        ]
+      },
+      "properties": {
+        "name": "Horse Shoe",
+        "category": "Galerie d'accès",
+        "status": "Abandonné",
+        "commodity": "MICA",
+        "last_year": "1939.0",
+        "description": "Abandonné · Commodity: MICA · Last operation: 1939.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.956721,
+          45.325646
+        ]
+      },
+      "properties": {
+        "name": "Howard ",
+        "category": "Puits",
+        "status": "Abandonné",
+        "commodity": "ZINC",
+        "last_year": "1956.0",
+        "description": "Abandonné · Commodity: ZINC · Last operation: 1956.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.956721,
+          45.325646
+        ]
+      },
+      "properties": {
+        "name": "Howard ",
+        "category": "Puits",
+        "status": "Abandonné",
+        "commodity": "COPPER",
+        "last_year": "1956.0",
+        "description": "Abandonné · Commodity: COPPER · Last operation: 1956.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.956721,
+          45.325646
+        ]
+      },
+      "properties": {
+        "name": "Howard ",
+        "category": "Puits",
+        "status": "Abandonné",
+        "commodity": "LEAD",
+        "last_year": "1956.0",
+        "description": "Abandonné · Commodity: LEAD · Last operation: 1956.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.956721,
+          45.325646
+        ]
+      },
+      "properties": {
+        "name": "Howard ",
+        "category": "Puits",
+        "status": "Abandonné",
+        "commodity": "SILVER",
+        "last_year": "1956.0",
+        "description": "Abandonné · Commodity: SILVER · Last operation: 1956.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.956721,
+          45.325646
+        ]
+      },
+      "properties": {
+        "name": "Howard ",
+        "category": "Puits",
+        "status": "Abandonné",
+        "commodity": "GOLD",
+        "last_year": "1956.0",
+        "description": "Abandonné · Commodity: GOLD · Last operation: 1956.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.810458,
+          50.235575
+        ]
+      },
+      "properties": {
+        "name": "Icon Sullivan",
+        "category": "À ciel ouvert",
+        "status": "Abandonné",
+        "commodity": "COPPER",
+        "last_year": "1976.0",
+        "description": "Abandonné · Commodity: COPPER · Last operation: 1976.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.810458,
+          50.235575
+        ]
+      },
+      "properties": {
+        "name": "Icon Sullivan",
+        "category": "Fosse",
+        "status": "Abandonné",
+        "commodity": "COPPER",
+        "last_year": "1976.0",
+        "description": "Abandonné · Commodity: COPPER · Last operation: 1976.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.810458,
+          50.235575
+        ]
+      },
+      "properties": {
+        "name": "Icon Sullivan",
+        "category": "Souterraine",
+        "status": "Abandonné",
+        "commodity": "COPPER",
+        "last_year": "1976.0",
+        "description": "Abandonné · Commodity: COPPER · Last operation: 1976.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.327615,
+          48.308803
+        ]
+      },
+      "properties": {
+        "name": "Inmont Copper",
+        "category": "Puits",
+        "status": "Abandonné",
+        "commodity": "COPPER",
+        "last_year": "1935.0",
+        "description": "Abandonné · Commodity: COPPER · Last operation: 1935.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.327615,
+          48.308803
+        ]
+      },
+      "properties": {
+        "name": "Inmont Copper",
+        "category": "À ciel ouvert",
+        "status": "Abandonné",
+        "commodity": "GOLD",
+        "last_year": "1935.0",
+        "description": "Abandonné · Commodity: GOLD · Last operation: 1935.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.275124,
+          49.906617
+        ]
+      },
+      "properties": {
+        "name": "Jaculet",
+        "category": "Puits",
+        "status": "Abandonné",
+        "commodity": "COPPER",
+        "last_year": "1977.0",
+        "description": "Abandonné · Commodity: COPPER · Last operation: 1977.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.275124,
+          49.906617
+        ]
+      },
+      "properties": {
+        "name": "Jaculet",
+        "category": "Puits",
+        "status": "Abandonné",
+        "commodity": "GOLD",
+        "last_year": "1977.0",
+        "description": "Abandonné · Commodity: GOLD · Last operation: 1977.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.275124,
+          49.906617
+        ]
+      },
+      "properties": {
+        "name": "Jaculet",
+        "category": "Puits",
+        "status": "Abandonné",
+        "commodity": "SILVER",
+        "last_year": "1977.0",
+        "description": "Abandonné · Commodity: SILVER · Last operation: 1977.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.434731,
+          49.491154
+        ]
+      },
+      "properties": {
+        "name": "Joe Mann (parc)",
+        "category": null,
+        "status": "Abandonné",
+        "commodity": "GOLD",
+        "last_year": "1999.0",
+        "description": "Abandonné · Commodity: GOLD · Last operation: 1999.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.434731,
+          49.491154
+        ]
+      },
+      "properties": {
+        "name": "Joe Mann (parc)",
+        "category": null,
+        "status": "Abandonné",
+        "commodity": "COPPER",
+        "last_year": "1999.0",
+        "description": "Abandonné · Commodity: COPPER · Last operation: 1999.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.434731,
+          49.491154
+        ]
+      },
+      "properties": {
+        "name": "Joe Mann (parc)",
+        "category": null,
+        "status": "Abandonné",
+        "commodity": "SILVER",
+        "last_year": "1999.0",
+        "description": "Abandonné · Commodity: SILVER · Last operation: 1999.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.842361,
+          48.081741
+        ]
+      },
+      "properties": {
+        "name": "Joubi",
+        "category": "Puits",
+        "status": "Abandonné",
+        "commodity": "GOLD",
+        "last_year": "1999.0",
+        "description": "Abandonné · Commodity: GOLD · Last operation: 1999.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.351648,
+          49.453203
+        ]
+      },
+      "properties": {
+        "name": "Joutel-Copper",
+        "category": "Puits",
+        "status": "Abandonné",
+        "commodity": "COPPER",
+        "last_year": "1975.0",
+        "description": "Abandonné · Commodity: COPPER · Last operation: 1975.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.351648,
+          49.453203
+        ]
+      },
+      "properties": {
+        "name": "Joutel-Copper",
+        "category": "Puits",
+        "status": "Abandonné",
+        "commodity": "ZINC",
+        "last_year": "1975.0",
+        "description": "Abandonné · Commodity: ZINC · Last operation: 1975.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.37525,
+          48.233948
+        ]
+      },
+      "properties": {
+        "name": "Kewagawa",
+        "category": "Puits",
+        "status": "Abandonné",
+        "commodity": "GOLD",
+        "last_year": "1982.0",
+        "description": "Abandonné · Commodity: GOLD · Last operation: 1982.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.989416,
+          48.148121
+        ]
+      },
+      "properties": {
+        "name": "Kierens",
+        "category": "Puits",
+        "status": "Abandonné",
+        "commodity": "GOLD",
+        "last_year": "1992.0",
+        "description": "Abandonné · Commodity: GOLD · Last operation: 1992.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.405163,
+          45.683776
+        ]
+      },
+      "properties": {
+        "name": "Kirkham",
+        "category": "Souterraine",
+        "status": "Abandonné",
+        "commodity": "MOLYBDENUM",
+        "last_year": "1965.0",
+        "description": "Abandonné · Commodity: MOLYBDENUM · Last operation: 1965.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.333299,
+          49.879084
+        ]
+      },
+      "properties": {
+        "name": "Kokko Creek",
+        "category": "Puits",
+        "status": "Abandonné",
+        "commodity": "COPPER",
+        "last_year": "1977.0",
+        "description": "Abandonné · Commodity: COPPER · Last operation: 1977.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.333299,
+          49.879084
+        ]
+      },
+      "properties": {
+        "name": "Kokko Creek",
+        "category": "Fosse",
+        "status": "Abandonné",
+        "commodity": "COPPER",
+        "last_year": "1977.0",
+        "description": "Abandonné · Commodity: COPPER · Last operation: 1977.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.331003,
+          48.185384
+        ]
+      },
+      "properties": {
+        "name": "Lac Fortune Ouest",
+        "category": "Fosse",
+        "status": "Abandonné",
+        "commodity": "GOLD",
+        "last_year": null,
+        "description": "Abandonné · Commodity: GOLD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.576339,
+          49.770459
+        ]
+      },
+      "properties": {
+        "name": "Lac Garon",
+        "category": "Galerie d'accès",
+        "status": "Abandonné",
+        "commodity": "ZINC",
+        "last_year": "1975.0",
+        "description": "Abandonné · Commodity: ZINC · Last operation: 1975.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.576339,
+          49.770459
+        ]
+      },
+      "properties": {
+        "name": "Lac Garon",
+        "category": "Galerie d'accès",
+        "status": "Abandonné",
+        "commodity": "COPPER",
+        "last_year": "1975.0",
+        "description": "Abandonné · Commodity: COPPER · Last operation: 1975.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.480638,
+          45.726294
+        ]
+      },
+      "properties": {
+        "name": "Lac Jake",
+        "category": "Fosse",
+        "status": "Abandonné",
+        "commodity": "FELDSPAR",
+        "last_year": "1929.0",
+        "description": "Abandonné · Commodity: FELDSPAR · Last operation: 1929.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.096776,
+          51.862456
+        ]
+      },
+      "properties": {
+        "name": "Lac Jeannine",
+        "category": "À ciel ouvert",
+        "status": "Abandonné",
+        "commodity": "IRON",
+        "last_year": "1976.0",
+        "description": "Abandonné · Commodity: IRON · Last operation: 1976.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.59419,
+          45.686081
+        ]
+      },
+      "properties": {
+        "name": "Lac McGillivray",
+        "category": "Fosse",
+        "status": "Abandonné",
+        "commodity": "MICA",
+        "last_year": "1928.0",
+        "description": "Abandonné · Commodity: MICA · Last operation: 1928.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.314256,
+          45.14304
+        ]
+      },
+      "properties": {
+        "name": "Lac Memphrémagog",
+        "category": "Puits",
+        "status": "Abandonné",
+        "commodity": "COPPER",
+        "last_year": "1898.0",
+        "description": "Abandonné · Commodity: COPPER · Last operation: 1898.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.314256,
+          45.14304
+        ]
+      },
+      "properties": {
+        "name": "Lac Memphrémagog",
+        "category": "Souterraine",
+        "status": "Abandonné",
+        "commodity": "ZINC",
+        "last_year": "1898.0",
+        "description": "Abandonné · Commodity: ZINC · Last operation: 1898.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.314256,
+          45.14304
+        ]
+      },
+      "properties": {
+        "name": "Lac Memphrémagog",
+        "category": "Souterraine",
+        "status": "Abandonné",
+        "commodity": "LEAD",
+        "last_year": "1898.0",
+        "description": "Abandonné · Commodity: LEAD · Last operation: 1898.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.703605,
+          46.809914
+        ]
+      },
+      "properties": {
+        "name": "Lac Renzy ",
+        "category": "À ciel ouvert",
+        "status": "Abandonné",
+        "commodity": "NICKEL",
+        "last_year": "1972.0",
+        "description": "Abandonné · Commodity: NICKEL · Last operation: 1972.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.703605,
+          46.809914
+        ]
+      },
+      "properties": {
+        "name": "Lac Renzy ",
+        "category": "À ciel ouvert",
+        "status": "Abandonné",
+        "commodity": "COPPER",
+        "last_year": "1972.0",
+        "description": "Abandonné · Commodity: COPPER · Last operation: 1972.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.588223,
+          45.671885
+        ]
+      },
+      "properties": {
+        "name": "Lac Rhéaume",
+        "category": "Fosse",
+        "status": "Abandonné",
+        "commodity": "MICA",
+        "last_year": null,
+        "description": "Abandonné · Commodity: MICA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.588223,
+          45.671885
+        ]
+      },
+      "properties": {
+        "name": "Lac Rhéaume",
+        "category": "Fosse",
+        "status": "Abandonné",
+        "commodity": "APATITE",
+        "last_year": null,
+        "description": "Abandonné · Commodity: APATITE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.806197,
+          49.371213
+        ]
+      },
+      "properties": {
+        "name": "Lac Rose",
+        "category": "Galerie d'accès",
+        "status": "Abandonné",
+        "commodity": "GOLD",
+        "last_year": "1987.0",
+        "description": "Abandonné · Commodity: GOLD · Last operation: 1987.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.922129,
+          48.153302
+        ]
+      },
+      "properties": {
+        "name": "Lacoma",
+        "category": "Puits",
+        "status": "Abandonné",
+        "commodity": "GOLD",
+        "last_year": "1942.0",
+        "description": "Abandonné · Commodity: GOLD · Last operation: 1942.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.268786,
+          48.221254
+        ]
+      },
+      "properties": {
+        "name": "Lapa (Zulapa)",
+        "category": "Puits",
+        "status": "Abandonné",
+        "commodity": "GOLD",
+        "last_year": "1943.0",
+        "description": "Abandonné · Commodity: GOLD · Last operation: 1943.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.521375,
+          48.060462
+        ]
+      },
+      "properties": {
+        "name": "Lapaska",
+        "category": "Puits",
+        "status": "Abandonné",
+        "commodity": "GOLD",
+        "last_year": "1946.0",
+        "description": "Abandonné · Commodity: GOLD · Last operation: 1946.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.107231,
+          49.759735
+        ]
+      },
+      "properties": {
+        "name": "Lemoine",
+        "category": "À ciel ouvert",
+        "status": "Abandonné",
+        "commodity": "ZINC",
+        "last_year": "1983.0",
+        "description": "Abandonné · Commodity: ZINC · Last operation: 1983.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.107231,
+          49.759735
+        ]
+      },
+      "properties": {
+        "name": "Lemoine",
+        "category": "Puits",
+        "status": "Abandonné",
+        "commodity": "COPPER",
+        "last_year": "1983.0",
+        "description": "Abandonné · Commodity: COPPER · Last operation: 1983.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.107231,
+          49.759735
+        ]
+      },
+      "properties": {
+        "name": "Lemoine",
+        "category": "Puits",
+        "status": "Abandonné",
+        "commodity": "SILVER",
+        "last_year": "1983.0",
+        "description": "Abandonné · Commodity: SILVER · Last operation: 1983.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.107231,
+          49.759735
+        ]
+      },
+      "properties": {
+        "name": "Lemoine",
+        "category": "Puits",
+        "status": "Abandonné",
+        "commodity": "GOLD",
+        "last_year": "1983.0",
+        "description": "Abandonné · Commodity: GOLD · Last operation: 1983.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.938936,
+          47.358366
+        ]
+      },
+      "properties": {
+        "name": "Lorraine ",
+        "category": "À ciel ouvert",
+        "status": "Abandonné",
+        "commodity": "NICKEL",
+        "last_year": "1968.0",
+        "description": "Abandonné · Commodity: NICKEL · Last operation: 1968.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.938936,
+          47.358366
+        ]
+      },
+      "properties": {
+        "name": "Lorraine ",
+        "category": "Puits",
+        "status": "Abandonné",
+        "commodity": "COPPER",
+        "last_year": "1968.0",
+        "description": "Abandonné · Commodity: COPPER · Last operation: 1968.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.938936,
+          47.358366
+        ]
+      },
+      "properties": {
+        "name": "Lorraine ",
+        "category": "Puits",
+        "status": "Abandonné",
+        "commodity": "GOLD",
+        "last_year": "1968.0",
+        "description": "Abandonné · Commodity: GOLD · Last operation: 1968.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.516958,
+          48.141576
+        ]
+      },
+      "properties": {
+        "name": "Lucien Béliveau",
+        "category": "Puits",
+        "status": "Abandonné",
+        "commodity": "GOLD",
+        "last_year": "1993.0",
+        "description": "Abandonné · Commodity: GOLD · Last operation: 1993.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.984862,
+          48.106712
+        ]
+      },
+      "properties": {
+        "name": "Malartic Midway",
+        "category": "Galerie d'accès",
+        "status": "Abandonné",
+        "commodity": "GOLD",
+        "last_year": null,
+        "description": "Abandonné · Commodity: GOLD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.609615,
+          48.086699
+        ]
+      },
+      "properties": {
+        "name": "Manitou ",
+        "category": "Puits",
+        "status": "Abandonné",
+        "commodity": "COPPER",
+        "last_year": "1994.0",
+        "description": "Abandonné · Commodity: COPPER · Last operation: 1994.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.609615,
+          48.086699
+        ]
+      },
+      "properties": {
+        "name": "Manitou ",
+        "category": "Puits",
+        "status": "Abandonné",
+        "commodity": "ZINC",
+        "last_year": "1994.0",
+        "description": "Abandonné · Commodity: ZINC · Last operation: 1994.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.609615,
+          48.086699
+        ]
+      },
+      "properties": {
+        "name": "Manitou ",
+        "category": "Puits",
+        "status": "Abandonné",
+        "commodity": "SILVER",
+        "last_year": "1994.0",
+        "description": "Abandonné · Commodity: SILVER · Last operation: 1994.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.401615,
+          45.093213
+        ]
+      },
+      "properties": {
+        "name": "Marcoux",
+        "category": "Fosse",
+        "status": "Abandonné",
+        "commodity": "TALC",
+        "last_year": "1993.0",
+        "description": "Abandonné · Commodity: TALC · Last operation: 1993.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.536944,
+          45.634145
+        ]
+      },
+      "properties": {
+        "name": "Mathewman (Green lakes)",
+        "category": "Petite fosse",
+        "status": "Abandonné",
+        "commodity": "FELDSPAR",
+        "last_year": "1942.0",
+        "description": "Abandonné · Commodity: FELDSPAR · Last operation: 1942.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.460985,
+          45.711866
+        ]
+      },
+      "properties": {
+        "name": "Freddy McDonald",
+        "category": "Fosse",
+        "status": "Abandonné",
+        "commodity": "MICA",
+        "last_year": "1944.0",
+        "description": "Abandonné · Commodity: MICA · Last operation: 1944.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.460985,
+          45.711866
+        ]
+      },
+      "properties": {
+        "name": "Freddy McDonald",
+        "category": "Fosse",
+        "status": "Abandonné",
+        "commodity": "APATITE",
+        "last_year": "1944.0",
+        "description": "Abandonné · Commodity: APATITE · Last operation: 1944.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.567265,
+          48.350589
+        ]
+      },
+      "properties": {
+        "name": "McKenzie Break",
+        "category": "Galerie d'accès",
+        "status": "Abandonné",
+        "commodity": "GOLD",
+        "last_year": null,
+        "description": "Abandonné · Commodity: GOLD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.906656,
+          48.21243
+        ]
+      },
+      "properties": {
+        "name": "McWatters",
+        "category": "Galerie d'accès",
+        "status": "Abandonné",
+        "commodity": "GOLD",
+        "last_year": "1997.0",
+        "description": "Abandonné · Commodity: GOLD · Last operation: 1997.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.906656,
+          48.21243
+        ]
+      },
+      "properties": {
+        "name": "McWatters",
+        "category": "À ciel ouvert",
+        "status": "Abandonné",
+        "commodity": "GOLD",
+        "last_year": "1997.0",
+        "description": "Abandonné · Commodity: GOLD · Last operation: 1997.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.906656,
+          48.21243
+        ]
+      },
+      "properties": {
+        "name": "McWatters",
+        "category": "Puits",
+        "status": "Abandonné",
+        "commodity": "GOLD",
+        "last_year": "1997.0",
+        "description": "Abandonné · Commodity: GOLD · Last operation: 1997.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.606173,
+          45.671271
+        ]
+      },
+      "properties": {
+        "name": "Miller Graphite",
+        "category": "Tranchée",
+        "status": "Abandonné",
+        "commodity": "GRAPHITE",
+        "last_year": "1900.0",
+        "description": "Abandonné · Commodity: GRAPHITE · Last operation: 1900.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.606173,
+          45.671271
+        ]
+      },
+      "properties": {
+        "name": "Miller Graphite",
+        "category": "Tranchée",
+        "status": "Abandonné",
+        "commodity": "MICA",
+        "last_year": "1900.0",
+        "description": "Abandonné · Commodity: MICA · Last operation: 1900.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.407916,
+          45.629557
+        ]
+      },
+      "properties": {
+        "name": "Mine McLemments",
+        "category": "Fosse",
+        "status": "Abandonné",
+        "commodity": "FELDSPAR",
+        "last_year": "1946.0",
+        "description": "Abandonné · Commodity: FELDSPAR · Last operation: 1946.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.160846,
+          45.707415
+        ]
+      },
+      "properties": {
+        "name": "Mine St-François",
+        "category": "Souterraine",
+        "status": "Abandonné",
+        "commodity": "COPPER",
+        "last_year": "1867.0",
+        "description": "Abandonné · Commodity: COPPER · Last operation: 1867.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.160846,
+          45.707415
+        ]
+      },
+      "properties": {
+        "name": "Mine St-François",
+        "category": "Puits",
+        "status": "Abandonné",
+        "commodity": "SILVER",
+        "last_year": "1867.0",
+        "description": "Abandonné · Commodity: SILVER · Last operation: 1867.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.003309,
+          49.019278
+        ]
+      },
+      "properties": {
+        "name": "Mines Madeleine",
+        "category": "Puits",
+        "status": "Abandonné",
+        "commodity": "COPPER",
+        "last_year": "1982.0",
+        "description": "Abandonné · Commodity: COPPER · Last operation: 1982.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.003309,
+          49.019278
+        ]
+      },
+      "properties": {
+        "name": "Mines Madeleine",
+        "category": "Puits",
+        "status": "Abandonné",
+        "commodity": "SILVER",
+        "last_year": "1982.0",
+        "description": "Abandonné · Commodity: SILVER · Last operation: 1982.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.994273,
+          48.288186
+        ]
+      },
+      "properties": {
+        "name": "Molybdenite Corporation ",
+        "category": "Puits",
+        "status": "Abandonné",
+        "commodity": "MOLYBDENUM",
+        "last_year": "1971.0",
+        "description": "Abandonné · Commodity: MOLYBDENUM · Last operation: 1971.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.994273,
+          48.288186
+        ]
+      },
+      "properties": {
+        "name": "Molybdenite Corporation ",
+        "category": "Puits",
+        "status": "Abandonné",
+        "commodity": "BISMUTH",
+        "last_year": "1971.0",
+        "description": "Abandonné · Commodity: BISMUTH · Last operation: 1971.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.344648,
+          46.839174
+        ]
+      },
+      "properties": {
+        "name": "Montauban ",
+        "category": "Puits",
+        "status": "Abandonné",
+        "commodity": "GOLD",
+        "last_year": "1958.0",
+        "description": "Abandonné · Commodity: GOLD · Last operation: 1958.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.349258,
+          46.839848
+        ]
+      },
+      "properties": {
+        "name": "Montauban United",
+        "category": "À ciel ouvert",
+        "status": "Abandonné",
+        "commodity": "ZINC",
+        "last_year": "1990.0",
+        "description": "Abandonné · Commodity: ZINC · Last operation: 1990.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.349258,
+          46.839848
+        ]
+      },
+      "properties": {
+        "name": "Montauban United",
+        "category": "Puits",
+        "status": "Abandonné",
+        "commodity": "LEAD",
+        "last_year": "1990.0",
+        "description": "Abandonné · Commodity: LEAD · Last operation: 1990.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.349258,
+          46.839848
+        ]
+      },
+      "properties": {
+        "name": "Montauban United",
+        "category": "Puits",
+        "status": "Abandonné",
+        "commodity": "SILVER",
+        "last_year": "1990.0",
+        "description": "Abandonné · Commodity: SILVER · Last operation: 1990.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.349258,
+          46.839848
+        ]
+      },
+      "properties": {
+        "name": "Montauban United",
+        "category": "Puits",
+        "status": "Abandonné",
+        "commodity": "GOLD",
+        "last_year": "1990.0",
+        "description": "Abandonné · Commodity: GOLD · Last operation: 1990.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.252302,
+          45.998254
+        ]
+      },
+      "properties": {
+        "name": "Montréal (Coleraine)",
+        "category": "À ciel ouvert",
+        "status": "Abandonné",
+        "commodity": "CHROMIUM",
+        "last_year": "1949.0",
+        "description": "Abandonné · Commodity: CHROMIUM · Last operation: 1949.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.248526,
+          45.571337
+        ]
+      },
+      "properties": {
+        "name": "Moss",
+        "category": "À ciel ouvert",
+        "status": "Abandonné",
+        "commodity": "MOLYBDENUM",
+        "last_year": "1944.0",
+        "description": "Abandonné · Commodity: MOLYBDENUM · Last operation: 1944.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.248526,
+          45.571337
+        ]
+      },
+      "properties": {
+        "name": "Moss",
+        "category": "Puits",
+        "status": "Abandonné",
+        "commodity": "MOLYBDENUM",
+        "last_year": "1944.0",
+        "description": "Abandonné · Commodity: MOLYBDENUM · Last operation: 1944.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.817911,
+          45.409406
+        ]
+      },
+      "properties": {
+        "name": "Moulton Hill",
+        "category": "Puits",
+        "status": "Abandonné",
+        "commodity": "COPPER",
+        "last_year": "1955.0",
+        "description": "Abandonné · Commodity: COPPER · Last operation: 1955.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.817911,
+          45.409406
+        ]
+      },
+      "properties": {
+        "name": "Moulton Hill",
+        "category": "Puits",
+        "status": "Abandonné",
+        "commodity": "ZINC",
+        "last_year": "1955.0",
+        "description": "Abandonné · Commodity: ZINC · Last operation: 1955.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.817911,
+          45.409406
+        ]
+      },
+      "properties": {
+        "name": "Moulton Hill",
+        "category": "Puits",
+        "status": "Abandonné",
+        "commodity": "LEAD",
+        "last_year": "1955.0",
+        "description": "Abandonné · Commodity: LEAD · Last operation: 1955.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.346648,
+          46.83851
+        ]
+      },
+      "properties": {
+        "name": "Muscocho",
+        "category": "Puits",
+        "status": "Abandonné",
+        "commodity": "GOLD",
+        "last_year": "1958.0",
+        "description": "Abandonné · Commodity: GOLD · Last operation: 1958.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.699706,
+          48.110378
+        ]
+      },
+      "properties": {
+        "name": "New Bidlamaque",
+        "category": "Puits",
+        "status": "Abandonné",
+        "commodity": "GOLD",
+        "last_year": "1946.0",
+        "description": "Abandonné · Commodity: GOLD · Last operation: 1946.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.699706,
+          48.110378
+        ]
+      },
+      "properties": {
+        "name": "New Bidlamaque",
+        "category": "Puits",
+        "status": "Abandonné",
+        "commodity": "COPPER",
+        "last_year": "1946.0",
+        "description": "Abandonné · Commodity: COPPER · Last operation: 1946.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.699706,
+          48.110378
+        ]
+      },
+      "properties": {
+        "name": "New Bidlamaque",
+        "category": "Puits",
+        "status": "Abandonné",
+        "commodity": "SILVER",
+        "last_year": "1946.0",
+        "description": "Abandonné · Commodity: SILVER · Last operation: 1946.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.677546,
+          45.698336
+        ]
+      },
+      "properties": {
+        "name": "New Calumet ",
+        "category": "Puits",
+        "status": "Abandonné",
+        "commodity": "ZINC",
+        "last_year": "1968.0",
+        "description": "Abandonné · Commodity: ZINC · Last operation: 1968.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.677546,
+          45.698336
+        ]
+      },
+      "properties": {
+        "name": "New Calumet ",
+        "category": "Puits",
+        "status": "Abandonné",
+        "commodity": "LEAD",
+        "last_year": "1968.0",
+        "description": "Abandonné · Commodity: LEAD · Last operation: 1968.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.677546,
+          45.698336
+        ]
+      },
+      "properties": {
+        "name": "New Calumet ",
+        "category": "Puits",
+        "status": "Abandonné",
+        "commodity": "SILVER",
+        "last_year": "1968.0",
+        "description": "Abandonné · Commodity: SILVER · Last operation: 1968.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.677546,
+          45.698336
+        ]
+      },
+      "properties": {
+        "name": "New Calumet ",
+        "category": "Puits",
+        "status": "Abandonné",
+        "commodity": "GOLD",
+        "last_year": "1968.0",
+        "description": "Abandonné · Commodity: GOLD · Last operation: 1968.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.836414,
+          49.789956
+        ]
+      },
+      "properties": {
+        "name": "New Hosco",
+        "category": "Puits",
+        "status": "Abandonné",
+        "commodity": "COPPER",
+        "last_year": "1970.0",
+        "description": "Abandonné · Commodity: COPPER · Last operation: 1970.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.836414,
+          49.789956
+        ]
+      },
+      "properties": {
+        "name": "New Hosco",
+        "category": "Fosse",
+        "status": "Abandonné",
+        "commodity": "ZINC",
+        "last_year": "1970.0",
+        "description": "Abandonné · Commodity: ZINC · Last operation: 1970.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.071323,
+          48.265076
+        ]
+      },
+      "properties": {
+        "name": "New Marlon",
+        "category": "Puits",
+        "status": "Abandonné",
+        "commodity": "GOLD",
+        "last_year": "1949.0",
+        "description": "Abandonné · Commodity: GOLD · Last operation: 1949.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.53899,
+          45.646826
+        ]
+      },
+      "properties": {
+        "name": "New York (Cameron)",
+        "category": "À ciel ouvert",
+        "status": "Abandonné",
+        "commodity": "FELDSPAR",
+        "last_year": "1946.0",
+        "description": "Abandonné · Commodity: FELDSPAR · Last operation: 1946.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.842351,
+          45.814933
+        ]
+      },
+      "properties": {
+        "name": "Nicolet Asbestos ",
+        "category": "À ciel ouvert",
+        "status": "Abandonné",
+        "commodity": "ASBESTOS",
+        "last_year": "1969.0",
+        "description": "Abandonné · Commodity: ASBESTOS · Last operation: 1969.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.363453,
+          48.999954
+        ]
+      },
+      "properties": {
+        "name": "Normétal",
+        "category": "Galerie d'accès",
+        "status": "Abandonné",
+        "commodity": "COPPER",
+        "last_year": "1975.0",
+        "description": "Abandonné · Commodity: COPPER · Last operation: 1975.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.363453,
+          48.999954
+        ]
+      },
+      "properties": {
+        "name": "Normétal",
+        "category": "Puits",
+        "status": "Abandonné",
+        "commodity": "ZINC",
+        "last_year": "1975.0",
+        "description": "Abandonné · Commodity: ZINC · Last operation: 1975.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.363453,
+          48.999954
+        ]
+      },
+      "properties": {
+        "name": "Normétal",
+        "category": "Puits",
+        "status": "Abandonné",
+        "commodity": "SILVER",
+        "last_year": "1975.0",
+        "description": "Abandonné · Commodity: SILVER · Last operation: 1975.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.374708,
+          49.001561
+        ]
+      },
+      "properties": {
+        "name": "Normetmar",
+        "category": "Galerie d'accès",
+        "status": "Abandonné",
+        "commodity": "ZINC",
+        "last_year": "1990.0",
+        "description": "Abandonné · Commodity: ZINC · Last operation: 1990.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.374708,
+          49.001561
+        ]
+      },
+      "properties": {
+        "name": "Normetmar",
+        "category": "Souterraine",
+        "status": "Abandonné",
+        "commodity": "COPPER",
+        "last_year": "1991.0",
+        "description": "Abandonné · Commodity: COPPER · Last operation: 1991.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.374708,
+          49.001561
+        ]
+      },
+      "properties": {
+        "name": "Normetmar",
+        "category": "Souterraine",
+        "status": "Abandonné",
+        "commodity": "SILVER",
+        "last_year": "1991.0",
+        "description": "Abandonné · Commodity: SILVER · Last operation: 1991.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.536969,
+          45.605881
+        ]
+      },
+      "properties": {
+        "name": "North American",
+        "category": "Galerie d'accès",
+        "status": "Abandonné",
+        "commodity": "GRAPHITE",
+        "last_year": "1912.0",
+        "description": "Abandonné · Commodity: GRAPHITE · Last operation: 1912.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.536969,
+          45.605881
+        ]
+      },
+      "properties": {
+        "name": "North American",
+        "category": "Puits",
+        "status": "Abandonné",
+        "commodity": "GRAPHITE",
+        "last_year": "1912.0",
+        "description": "Abandonné · Commodity: GRAPHITE · Last operation: 1912.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.991802,
+          48.178715
+        ]
+      },
+      "properties": {
+        "name": "Northern Québec",
+        "category": "Puits",
+        "status": "Abandonné",
+        "commodity": "GOLD",
+        "last_year": null,
+        "description": "Abandonné · Commodity: GOLD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.991802,
+          48.178715
+        ]
+      },
+      "properties": {
+        "name": "Northern Québec",
+        "category": "Souterraine",
+        "status": "Abandonné",
+        "commodity": "GOLD",
+        "last_year": null,
+        "description": "Abandonné · Commodity: GOLD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.164383,
+          48.655982
+        ]
+      },
+      "properties": {
+        "name": "Nortrac",
+        "category": "Puits",
+        "status": "Abandonné",
+        "commodity": "GOLD",
+        "last_year": "1934.0",
+        "description": "Abandonné · Commodity: GOLD · Last operation: 1934.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.164383,
+          48.655982
+        ]
+      },
+      "properties": {
+        "name": "Nortrac",
+        "category": "Puits",
+        "status": "Abandonné",
+        "commodity": "TUNGSTEN",
+        "last_year": "1934.0",
+        "description": "Abandonné · Commodity: TUNGSTEN · Last operation: 1934.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.110324,
+          45.408557
+        ]
+      },
+      "properties": {
+        "name": "Old Fletcher IV",
+        "category": "Puits",
+        "status": "Abandonné",
+        "commodity": "CHROMIUM",
+        "last_year": "1942.0",
+        "description": "Abandonné · Commodity: CHROMIUM · Last operation: 1942.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.110324,
+          45.408557
+        ]
+      },
+      "properties": {
+        "name": "Old Fletcher IV",
+        "category": "Souterraine",
+        "status": "Abandonné",
+        "commodity": "CHROMIUM",
+        "last_year": "1942.0",
+        "description": "Abandonné · Commodity: CHROMIUM · Last operation: 1942.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.853086,
+          49.788266
+        ]
+      },
+      "properties": {
+        "name": "Opémiska",
+        "category": "À ciel ouvert",
+        "status": "Abandonné",
+        "commodity": "COPPER",
+        "last_year": "1991.0",
+        "description": "Abandonné · Commodity: COPPER · Last operation: 1991.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.853086,
+          49.788266
+        ]
+      },
+      "properties": {
+        "name": "Opémiska",
+        "category": "Puits",
+        "status": "Abandonné",
+        "commodity": "GOLD",
+        "last_year": "1991.0",
+        "description": "Abandonné · Commodity: GOLD · Last operation: 1991.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.853086,
+          49.788266
+        ]
+      },
+      "properties": {
+        "name": "Opémiska",
+        "category": "Galerie d'accès",
+        "status": "Abandonné",
+        "commodity": "SILVER",
+        "last_year": "1991.0",
+        "description": "Abandonné · Commodity: SILVER · Last operation: 1991.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.504126,
+          45.61433
+        ]
+      },
+      "properties": {
+        "name": "Ottawa Valley",
+        "category": "Fosse",
+        "status": "Abandonné",
+        "commodity": "FELDSPAR",
+        "last_year": "1930.0",
+        "description": "Abandonné · Commodity: FELDSPAR · Last operation: 1930.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.504126,
+          45.61433
+        ]
+      },
+      "properties": {
+        "name": "Ottawa Valley",
+        "category": "Fosse",
+        "status": "Abandonné",
+        "commodity": "MICA",
+        "last_year": "1930.0",
+        "description": "Abandonné · Commodity: MICA · Last operation: 1930.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.504126,
+          45.61433
+        ]
+      },
+      "properties": {
+        "name": "Ottawa Valley",
+        "category": "Fosse",
+        "status": "Abandonné",
+        "commodity": "QUARTZITE",
+        "last_year": "1930.0",
+        "description": "Abandonné · Commodity: QUARTZITE · Last operation: 1930.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.306626,
+          48.228122
+        ]
+      },
+      "properties": {
+        "name": "Pandora",
+        "category": "Puits",
+        "status": "Abandonné",
+        "commodity": "GOLD",
+        "last_year": "1942.0",
+        "description": "Abandonné · Commodity: GOLD · Last operation: 1942.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.306626,
+          48.228122
+        ]
+      },
+      "properties": {
+        "name": "Pandora",
+        "category": "Galerie d'accès",
+        "status": "Abandonné",
+        "commodity": "GOLD",
+        "last_year": "1942.0",
+        "description": "Abandonné · Commodity: GOLD · Last operation: 1942.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.306626,
+          48.228122
+        ]
+      },
+      "properties": {
+        "name": "Pandora",
+        "category": "Fosse",
+        "status": "Abandonné",
+        "commodity": "GOLD",
+        "last_year": "1942.0",
+        "description": "Abandonné · Commodity: GOLD · Last operation: 1942.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.457917,
+          45.697981
+        ]
+      },
+      "properties": {
+        "name": "Pednaud",
+        "category": "Fosse",
+        "status": "Abandonné",
+        "commodity": "FELDSPAR",
+        "last_year": "1964.0",
+        "description": "Abandonné · Commodity: FELDSPAR · Last operation: 1964.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.562238,
+          48.157518
+        ]
+      },
+      "properties": {
+        "name": "Perron",
+        "category": "Puits",
+        "status": "Abandonné",
+        "commodity": "GOLD",
+        "last_year": "1955.0",
+        "description": "Abandonné · Commodity: GOLD · Last operation: 1955.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.45263,
+          48.371042
+        ]
+      },
+      "properties": {
+        "name": "Pershing-Manitou",
+        "category": "Puits",
+        "status": "Abandonné",
+        "commodity": "GOLD",
+        "last_year": "1945.0",
+        "description": "Abandonné · Commodity: GOLD · Last operation: 1945.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.085342,
+          46.944883
+        ]
+      },
+      "properties": {
+        "name": "Petit Pré",
+        "category": "Puits",
+        "status": "Abandonné",
+        "commodity": "MICA",
+        "last_year": null,
+        "description": "Abandonné · Commodity: MICA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.142739,
+          49.759774
+        ]
+      },
+      "properties": {
+        "name": "Phelps Dodge",
+        "category": "Puits",
+        "status": "Abandonné",
+        "commodity": "ZINC",
+        "last_year": null,
+        "description": "Abandonné · Commodity: ZINC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.142739,
+          49.759774
+        ]
+      },
+      "properties": {
+        "name": "Phelps Dodge",
+        "category": "Galerie d'accès",
+        "status": "Abandonné",
+        "commodity": "COPPER",
+        "last_year": null,
+        "description": "Abandonné · Commodity: COPPER"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.641625,
+          45.588015
+        ]
+      },
+      "properties": {
+        "name": "Phosphate King",
+        "category": "Puits",
+        "status": "Abandonné",
+        "commodity": "PHOSPHATE",
+        "last_year": "1945.0",
+        "description": "Abandonné · Commodity: PHOSPHATE · Last operation: 1945.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.641625,
+          45.588015
+        ]
+      },
+      "properties": {
+        "name": "Phosphate King",
+        "category": "Galerie d'accès",
+        "status": "Abandonné",
+        "commodity": "PHOSPHATE",
+        "last_year": "1945.0",
+        "description": "Abandonné · Commodity: PHOSPHATE · Last operation: 1945.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.641625,
+          45.588015
+        ]
+      },
+      "properties": {
+        "name": "Phosphate King",
+        "category": "Fosse",
+        "status": "Abandonné",
+        "commodity": "PHOSPHATE",
+        "last_year": "1945.0",
+        "description": "Abandonné · Commodity: PHOSPHATE · Last operation: 1945.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.205218,
+          48.321578
+        ]
+      },
+      "properties": {
+        "name": "Pierre Beauchemin",
+        "category": "Puits",
+        "status": "Abandonné",
+        "commodity": "GOLD",
+        "last_year": "1993.0",
+        "description": "Abandonné · Commodity: GOLD · Last operation: 1993.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.787472,
+          46.984333
+        ]
+      },
+      "properties": {
+        "name": "Pointe du chasseur-2",
+        "category": "Souterraine",
+        "status": "Abandonné",
+        "commodity": "URANIUM",
+        "last_year": null,
+        "description": "Abandonné · Commodity: URANIUM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.049765,
+          48.261104
+        ]
+      },
+      "properties": {
+        "name": "Powell (Rouyn)",
+        "category": "Puits",
+        "status": "Abandonné",
+        "commodity": "GOLD",
+        "last_year": "1956.0",
+        "description": "Abandonné · Commodity: GOLD · Last operation: 1956.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.049765,
+          48.261104
+        ]
+      },
+      "properties": {
+        "name": "Powell (Rouyn)",
+        "category": "À ciel ouvert",
+        "status": "Abandonné",
+        "commodity": "GOLD",
+        "last_year": "1956.0",
+        "description": "Abandonné · Commodity: GOLD · Last operation: 1956.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.392101,
+          48.334747
+        ]
+      },
+      "properties": {
+        "name": "Preissac A",
+        "category": null,
+        "status": "Abandonné",
+        "commodity": "MOLYBDENUM",
+        "last_year": "1971.0",
+        "description": "Abandonné · Commodity: MOLYBDENUM · Last operation: 1971.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.392101,
+          48.334747
+        ]
+      },
+      "properties": {
+        "name": "Preissac A",
+        "category": null,
+        "status": "Abandonné",
+        "commodity": "BISMUTH",
+        "last_year": "1971.0",
+        "description": "Abandonné · Commodity: BISMUTH · Last operation: 1971.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.398748,
+          48.346253
+        ]
+      },
+      "properties": {
+        "name": "Preissac Molybdenite",
+        "category": "Puits",
+        "status": "Abandonné",
+        "commodity": "MOLYBDENUM",
+        "last_year": "1971.0",
+        "description": "Abandonné · Commodity: MOLYBDENUM · Last operation: 1971.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.398748,
+          48.346253
+        ]
+      },
+      "properties": {
+        "name": "Preissac Molybdenite",
+        "category": "Puits",
+        "status": "Abandonné",
+        "commodity": "BISMUTH",
+        "last_year": "1971.0",
+        "description": "Abandonné · Commodity: BISMUTH · Last operation: 1971.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.334824,
+          49.869424
+        ]
+      },
+      "properties": {
+        "name": "Principale",
+        "category": "Puits",
+        "status": "Abandonné",
+        "commodity": "COPPER",
+        "last_year": "1972.0",
+        "description": "Abandonné · Commodity: COPPER · Last operation: 1972.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.334824,
+          49.869424
+        ]
+      },
+      "properties": {
+        "name": "Principale",
+        "category": "À ciel ouvert",
+        "status": "Abandonné",
+        "commodity": "GOLD",
+        "last_year": "1972.0",
+        "description": "Abandonné · Commodity: GOLD · Last operation: 1972.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.525437,
+          45.604135
+        ]
+      },
+      "properties": {
+        "name": "Pugh et Weart",
+        "category": "Fosse",
+        "status": "Abandonné",
+        "commodity": "GRAPHITE",
+        "last_year": "1903.0",
+        "description": "Abandonné · Commodity: GRAPHITE · Last operation: 1903.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.5329,
+          45.848815
+        ]
+      },
+      "properties": {
+        "name": "Québec Antimoine",
+        "category": "Fosse",
+        "status": "Abandonné",
+        "commodity": "ANTIMONY",
+        "last_year": "1889.0",
+        "description": "Abandonné · Commodity: ANTIMONY · Last operation: 1889.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.5329,
+          45.848815
+        ]
+      },
+      "properties": {
+        "name": "Québec Antimoine",
+        "category": "Puits",
+        "status": "Abandonné",
+        "commodity": "SILVER",
+        "last_year": "1889.0",
+        "description": "Abandonné · Commodity: SILVER · Last operation: 1889.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.328894,
+          45.262746
+        ]
+      },
+      "properties": {
+        "name": "Québec Copper",
+        "category": "Puits",
+        "status": "Abandonné",
+        "commodity": "COPPER",
+        "last_year": "1958.0",
+        "description": "Abandonné · Commodity: COPPER · Last operation: 1958.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.328894,
+          45.262746
+        ]
+      },
+      "properties": {
+        "name": "Québec Copper",
+        "category": "Fosse",
+        "status": "Abandonné",
+        "commodity": "COPPER",
+        "last_year": "1958.0",
+        "description": "Abandonné · Commodity: COPPER · Last operation: 1958.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.328894,
+          45.262746
+        ]
+      },
+      "properties": {
+        "name": "Québec Copper",
+        "category": "Souterraine",
+        "status": "Abandonné",
+        "commodity": "COPPER",
+        "last_year": "1958.0",
+        "description": "Abandonné · Commodity: COPPER · Last operation: 1958.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.901359,
+          48.08112
+        ]
+      },
+      "properties": {
+        "name": "Québec Explorers",
+        "category": "Puits",
+        "status": "Abandonné",
+        "commodity": "GOLD",
+        "last_year": null,
+        "description": "Abandonné · Commodity: GOLD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.901359,
+          48.08112
+        ]
+      },
+      "properties": {
+        "name": "Québec Explorers",
+        "category": "Galerie d'accès",
+        "status": "Abandonné",
+        "commodity": "GOLD",
+        "last_year": null,
+        "description": "Abandonné · Commodity: GOLD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.806752,
+          48.415147
+        ]
+      },
+      "properties": {
+        "name": "Québec Lithium (ancien parc)",
+        "category": null,
+        "status": "Abandonné",
+        "commodity": "LITHIUM",
+        "last_year": "1965.0",
+        "description": "Abandonné · Commodity: LITHIUM · Last operation: 1965.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.329733,
+          49.885359
+        ]
+      },
+      "properties": {
+        "name": "Québec-Chibougamau",
+        "category": "Tranchée",
+        "status": "Abandonné",
+        "commodity": "COPPER",
+        "last_year": "1975.0",
+        "description": "Abandonné · Commodity: COPPER · Last operation: 1975.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.329733,
+          49.885359
+        ]
+      },
+      "properties": {
+        "name": "Québec-Chibougamau",
+        "category": "Puits",
+        "status": "Abandonné",
+        "commodity": "GOLD",
+        "last_year": "1975.0",
+        "description": "Abandonné · Commodity: GOLD · Last operation: 1975.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.329733,
+          49.885359
+        ]
+      },
+      "properties": {
+        "name": "Québec-Chibougamau",
+        "category": "Puits",
+        "status": "Abandonné",
+        "commodity": "SILVER",
+        "last_year": "1975.0",
+        "description": "Abandonné · Commodity: SILVER · Last operation: 1975.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.212481,
+          48.29595
+        ]
+      },
+      "properties": {
+        "name": "Quésabé",
+        "category": "Puits",
+        "status": "Abandonné",
+        "commodity": "GOLD",
+        "last_year": "1952.0",
+        "description": "Abandonné · Commodity: GOLD · Last operation: 1952.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.560491,
+          49.75334
+        ]
+      },
+      "properties": {
+        "name": "Radiore",
+        "category": "À ciel ouvert",
+        "status": "Abandonné",
+        "commodity": "COPPER",
+        "last_year": "1986.0",
+        "description": "Abandonné · Commodity: COPPER · Last operation: 1986.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.560491,
+          49.75334
+        ]
+      },
+      "properties": {
+        "name": "Radiore",
+        "category": "Puits",
+        "status": "Abandonné",
+        "commodity": "ZINC",
+        "last_year": "1986.0",
+        "description": "Abandonné · Commodity: ZINC · Last operation: 1986.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.560491,
+          49.75334
+        ]
+      },
+      "properties": {
+        "name": "Radiore",
+        "category": "Galerie d'accès",
+        "status": "Abandonné",
+        "commodity": "ZINC",
+        "last_year": "1986.0",
+        "description": "Abandonné · Commodity: ZINC · Last operation: 1986.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.802696,
+          48.485123
+        ]
+      },
+      "properties": {
+        "name": "Randall",
+        "category": "Puits",
+        "status": "Abandonné",
+        "commodity": "GOLD",
+        "last_year": "1933.0",
+        "description": "Abandonné · Commodity: GOLD · Last operation: 1933.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.343048,
+          46.00795
+        ]
+      },
+      "properties": {
+        "name": "Reed-Bélanger",
+        "category": "Puits",
+        "status": "Abandonné",
+        "commodity": "CHROMIUM",
+        "last_year": "1944.0",
+        "description": "Abandonné · Commodity: CHROMIUM · Last operation: 1944.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.343048,
+          46.00795
+        ]
+      },
+      "properties": {
+        "name": "Reed-Bélanger",
+        "category": "Fosse",
+        "status": "Abandonné",
+        "commodity": "CHROMIUM",
+        "last_year": "1944.0",
+        "description": "Abandonné · Commodity: CHROMIUM · Last operation: 1944.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.35627,
+          48.095281
+        ]
+      },
+      "properties": {
+        "name": "Regcourt",
+        "category": "Puits",
+        "status": "Abandonné",
+        "commodity": "GOLD",
+        "last_year": "1948.0",
+        "description": "Abandonné · Commodity: GOLD · Last operation: 1948.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.35627,
+          48.095281
+        ]
+      },
+      "properties": {
+        "name": "Regcourt",
+        "category": "Puits",
+        "status": "Abandonné",
+        "commodity": "COPPER",
+        "last_year": "1948.0",
+        "description": "Abandonné · Commodity: COPPER · Last operation: 1948.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.35627,
+          48.095281
+        ]
+      },
+      "properties": {
+        "name": "Regcourt",
+        "category": "Puits",
+        "status": "Abandonné",
+        "commodity": "SILVER",
+        "last_year": "1948.0",
+        "description": "Abandonné · Commodity: SILVER · Last operation: 1948.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.559621,
+          48.172216
+        ]
+      },
+      "properties": {
+        "name": "Resenore",
+        "category": "Puits",
+        "status": "Abandonné",
+        "commodity": "GOLD",
+        "last_year": null,
+        "description": "Abandonné · Commodity: GOLD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.834926,
+          49.797263
+        ]
+      },
+      "properties": {
+        "name": "Robitaille (L. Robitaille et J. Fortin)",
+        "category": "Fosse",
+        "status": "Abandonné",
+        "commodity": null,
+        "last_year": null,
+        "description": "Abandonné"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.61217,
+          48.622091
+        ]
+      },
+      "properties": {
+        "name": "Rochette",
+        "category": "Puits",
+        "status": "Abandonné",
+        "commodity": "GOLD",
+        "last_year": "1937.0",
+        "description": "Abandonné · Commodity: GOLD · Last operation: 1937.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.61217,
+          48.622091
+        ]
+      },
+      "properties": {
+        "name": "Rochette",
+        "category": "Puits",
+        "status": "Abandonné",
+        "commodity": "SILVER",
+        "last_year": "1937.0",
+        "description": "Abandonné · Commodity: SILVER · Last operation: 1937.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.116185,
+          49.015036
+        ]
+      },
+      "properties": {
+        "name": "Rollmac",
+        "category": "Galerie d'accès",
+        "status": "Abandonné",
+        "commodity": "GOLD",
+        "last_year": "1984.0",
+        "description": "Abandonné · Commodity: GOLD · Last operation: 1984.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.116185,
+          49.015036
+        ]
+      },
+      "properties": {
+        "name": "Rollmac",
+        "category": "Puits",
+        "status": "Abandonné",
+        "commodity": "SILVER",
+        "last_year": "1984.0",
+        "description": "Abandonné · Commodity: SILVER · Last operation: 1984.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.116185,
+          49.015036
+        ]
+      },
+      "properties": {
+        "name": "Rollmac",
+        "category": "Fosse",
+        "status": "Abandonné",
+        "commodity": "SILVER",
+        "last_year": "1984.0",
+        "description": "Abandonné · Commodity: SILVER · Last operation: 1984.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.517048,
+          45.614983
+        ]
+      },
+      "properties": {
+        "name": "Sarrazin (Gaston)",
+        "category": "Fosse",
+        "status": "Abandonné",
+        "commodity": "FELDSPAR",
+        "last_year": null,
+        "description": "Abandonné · Commodity: FELDSPAR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.921181,
+          54.831754
+        ]
+      },
+      "properties": {
+        "name": "Schefferville",
+        "category": "Fosse",
+        "status": "Abandonné",
+        "commodity": "IRON",
+        "last_year": "1982.0",
+        "description": "Abandonné · Commodity: IRON · Last operation: 1982.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.89028,
+          48.109618
+        ]
+      },
+      "properties": {
+        "name": "Shawkey",
+        "category": "Puits",
+        "status": "Abandonné",
+        "commodity": "GOLD",
+        "last_year": "1938.0",
+        "description": "Abandonné · Commodity: GOLD · Last operation: 1938.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.078729,
+          48.252999
+        ]
+      },
+      "properties": {
+        "name": "Silidor",
+        "category": "À ciel ouvert",
+        "status": "Abandonné",
+        "commodity": "GOLD",
+        "last_year": "1997.0",
+        "description": "Abandonné · Commodity: GOLD · Last operation: 1997.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.078729,
+          48.252999
+        ]
+      },
+      "properties": {
+        "name": "Silidor",
+        "category": "Galerie d'accès",
+        "status": "Abandonné",
+        "commodity": "GOLD",
+        "last_year": "1997.0",
+        "description": "Abandonné · Commodity: GOLD · Last operation: 1997.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.078729,
+          48.252999
+        ]
+      },
+      "properties": {
+        "name": "Silidor",
+        "category": "Puits",
+        "status": "Abandonné",
+        "commodity": "GOLD",
+        "last_year": "1997.0",
+        "description": "Abandonné · Commodity: GOLD · Last operation: 1997.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.276219,
+          48.014043
+        ]
+      },
+      "properties": {
+        "name": "Simon Ouest",
+        "category": "Galerie d'accès",
+        "status": "Abandonné",
+        "commodity": "GOLD",
+        "last_year": null,
+        "description": "Abandonné · Commodity: GOLD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.868844,
+          48.140614
+        ]
+      },
+      "properties": {
+        "name": "Siscoe ",
+        "category": "Puits",
+        "status": "Abandonné",
+        "commodity": "GOLD",
+        "last_year": "1949.0",
+        "description": "Abandonné · Commodity: GOLD · Last operation: 1949.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.848409,
+          48.152524
+        ]
+      },
+      "properties": {
+        "name": "Siscoe Nord",
+        "category": "Puits",
+        "status": "Abandonné",
+        "commodity": "GOLD",
+        "last_year": null,
+        "description": "Abandonné · Commodity: GOLD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.378517,
+          47.656255
+        ]
+      },
+      "properties": {
+        "name": "Somex (Lac Édouard)",
+        "category": "Fosse",
+        "status": "Abandonné",
+        "commodity": "NICKEL",
+        "last_year": "1974.0",
+        "description": "Abandonné · Commodity: NICKEL · Last operation: 1974.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.378517,
+          47.656255
+        ]
+      },
+      "properties": {
+        "name": "Somex (Lac Édouard)",
+        "category": "Fosse",
+        "status": "Abandonné",
+        "commodity": "COPPER",
+        "last_year": "1974.0",
+        "description": "Abandonné · Commodity: COPPER · Last operation: 1974.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.285601,
+          48.017564
+        ]
+      },
+      "properties": {
+        "name": "South Tiblemonth",
+        "category": "Puits",
+        "status": "Abandonné",
+        "commodity": "GOLD",
+        "last_year": "1934.0",
+        "description": "Abandonné · Commodity: GOLD · Last operation: 1934.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.811709,
+          48.114583
+        ]
+      },
+      "properties": {
+        "name": "Stabell (Greene)",
+        "category": "Puits",
+        "status": "Abandonné",
+        "commodity": "GOLD",
+        "last_year": "1937.0",
+        "description": "Abandonné · Commodity: GOLD · Last operation: 1937.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.031795,
+          48.214632
+        ]
+      },
+      "properties": {
+        "name": "Stadacona ",
+        "category": "Puits",
+        "status": "Abandonné",
+        "commodity": "GOLD",
+        "last_year": "1958.0",
+        "description": "Abandonné · Commodity: GOLD · Last operation: 1958.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.891203,
+          48.67048
+        ]
+      },
+      "properties": {
+        "name": "Standard Gold Mines",
+        "category": "Puits",
+        "status": "Abandonné",
+        "commodity": "GOLD",
+        "last_year": "1953.0",
+        "description": "Abandonné · Commodity: GOLD · Last operation: 1953.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.507326,
+          45.593695
+        ]
+      },
+      "properties": {
+        "name": "Stewart",
+        "category": "Fosse",
+        "status": "Abandonné",
+        "commodity": "GRAPHITE",
+        "last_year": "1943.0",
+        "description": "Abandonné · Commodity: GRAPHITE · Last operation: 1943.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.029039,
+          45.500711
+        ]
+      },
+      "properties": {
+        "name": "St-Lawrence-Columbium",
+        "category": "Fosse",
+        "status": "Abandonné",
+        "commodity": "NIOBIUM",
+        "last_year": "1976.0",
+        "description": "Abandonné · Commodity: NIOBIUM · Last operation: 1976.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.029039,
+          45.500711
+        ]
+      },
+      "properties": {
+        "name": "St-Lawrence-Columbium",
+        "category": "Puits",
+        "status": "Abandonné",
+        "commodity": "NIOBIUM",
+        "last_year": "1976.0",
+        "description": "Abandonné · Commodity: NIOBIUM · Last operation: 1976.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.63449,
+          46.376691
+        ]
+      },
+      "properties": {
+        "name": "St-Odilon Lafayette",
+        "category": null,
+        "status": "Abandonné",
+        "commodity": "ASBESTOS",
+        "last_year": null,
+        "description": "Abandonné · Commodity: ASBESTOS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.527726,
+          45.771995
+        ]
+      },
+      "properties": {
+        "name": "St-Robert-Metals",
+        "category": "Puits",
+        "status": "Abandonné",
+        "commodity": "LEAD",
+        "last_year": "1959.0",
+        "description": "Abandonné · Commodity: LEAD · Last operation: 1959.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.527726,
+          45.771995
+        ]
+      },
+      "properties": {
+        "name": "St-Robert-Metals",
+        "category": "Tranchée",
+        "status": "Abandonné",
+        "commodity": "SILVER",
+        "last_year": "1959.0",
+        "description": "Abandonné · Commodity: SILVER · Last operation: 1959.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.527726,
+          45.771995
+        ]
+      },
+      "properties": {
+        "name": "St-Robert-Metals",
+        "category": "Tranchée",
+        "status": "Abandonné",
+        "commodity": "TUNGSTEN",
+        "last_year": "1959.0",
+        "description": "Abandonné · Commodity: TUNGSTEN · Last operation: 1959.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.527726,
+          45.771995
+        ]
+      },
+      "properties": {
+        "name": "St-Robert-Metals",
+        "category": "Tranchée",
+        "status": "Abandonné",
+        "commodity": "MOLYBDENUM",
+        "last_year": "1959.0",
+        "description": "Abandonné · Commodity: MOLYBDENUM · Last operation: 1959.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.527726,
+          45.771995
+        ]
+      },
+      "properties": {
+        "name": "St-Robert-Metals",
+        "category": "Tranchée",
+        "status": "Abandonné",
+        "commodity": "ZINC",
+        "last_year": "1959.0",
+        "description": "Abandonné · Commodity: ZINC · Last operation: 1959.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.959316,
+          45.318152
+        ]
+      },
+      "properties": {
+        "name": "Suffield",
+        "category": "Souterraine",
+        "status": "Abandonné",
+        "commodity": "ZINC",
+        "last_year": "1955.0",
+        "description": "Abandonné · Commodity: ZINC · Last operation: 1955.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.959316,
+          45.318152
+        ]
+      },
+      "properties": {
+        "name": "Suffield",
+        "category": "Fosse",
+        "status": "Abandonné",
+        "commodity": "COPPER",
+        "last_year": "1955.0",
+        "description": "Abandonné · Commodity: COPPER · Last operation: 1955.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.959316,
+          45.318152
+        ]
+      },
+      "properties": {
+        "name": "Suffield",
+        "category": "Fosse",
+        "status": "Abandonné",
+        "commodity": "SILVER",
+        "last_year": "1955.0",
+        "description": "Abandonné · Commodity: SILVER · Last operation: 1955.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.959316,
+          45.318152
+        ]
+      },
+      "properties": {
+        "name": "Suffield",
+        "category": "Fosse",
+        "status": "Abandonné",
+        "commodity": "LEAD",
+        "last_year": "1955.0",
+        "description": "Abandonné · Commodity: LEAD · Last operation: 1955.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.959316,
+          45.318152
+        ]
+      },
+      "properties": {
+        "name": "Suffield",
+        "category": "Fosse",
+        "status": "Abandonné",
+        "commodity": "GOLD",
+        "last_year": "1955.0",
+        "description": "Abandonné · Commodity: GOLD · Last operation: 1955.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.966529,
+          48.86552
+        ]
+      },
+      "properties": {
+        "name": "Sullipek",
+        "category": "Souterraine",
+        "status": "Abandonné",
+        "commodity": "COPPER",
+        "last_year": "1968.0",
+        "description": "Abandonné · Commodity: COPPER · Last operation: 1968.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.838303,
+          48.128506
+        ]
+      },
+      "properties": {
+        "name": "Sullivan ",
+        "category": "Puits",
+        "status": "Abandonné",
+        "commodity": "GOLD",
+        "last_year": "1968.0",
+        "description": "Abandonné · Commodity: GOLD · Last operation: 1968.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.838303,
+          48.128506
+        ]
+      },
+      "properties": {
+        "name": "Sullivan ",
+        "category": "Puits",
+        "status": "Abandonné",
+        "commodity": "SILVER",
+        "last_year": "1968.0",
+        "description": "Abandonné · Commodity: SILVER · Last operation: 1968.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.567368,
+          48.553985
+        ]
+      },
+      "properties": {
+        "name": "Swanson",
+        "category": "Galerie d'accès",
+        "status": "Abandonné",
+        "commodity": "GOLD",
+        "last_year": null,
+        "description": "Abandonné · Commodity: GOLD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.567368,
+          48.553985
+        ]
+      },
+      "properties": {
+        "name": "Swanson",
+        "category": "À ciel ouvert",
+        "status": "Abandonné",
+        "commodity": "SILVER",
+        "last_year": null,
+        "description": "Abandonné · Commodity: SILVER"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.998101,
+          48.113494
+        ]
+      },
+      "properties": {
+        "name": "Terrains Aurifères ",
+        "category": "Puits",
+        "status": "Abandonné",
+        "commodity": "GOLD",
+        "last_year": "1965.0",
+        "description": "Abandonné · Commodity: GOLD · Last operation: 1965.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.345542,
+          46.826352
+        ]
+      },
+      "properties": {
+        "name": "Tétreault 1",
+        "category": "À ciel ouvert",
+        "status": "Abandonné",
+        "commodity": "ZINC",
+        "last_year": "1990.0",
+        "description": "Abandonné · Commodity: ZINC · Last operation: 1990.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.345542,
+          46.826352
+        ]
+      },
+      "properties": {
+        "name": "Tétreault 1",
+        "category": "Puits",
+        "status": "Abandonné",
+        "commodity": "LEAD",
+        "last_year": "1990.0",
+        "description": "Abandonné · Commodity: LEAD · Last operation: 1990.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.345542,
+          46.826352
+        ]
+      },
+      "properties": {
+        "name": "Tétreault 1",
+        "category": "Puits",
+        "status": "Abandonné",
+        "commodity": "SILVER",
+        "last_year": "1990.0",
+        "description": "Abandonné · Commodity: SILVER · Last operation: 1990.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.345542,
+          46.826352
+        ]
+      },
+      "properties": {
+        "name": "Tétreault 1",
+        "category": "Puits",
+        "status": "Abandonné",
+        "commodity": "GOLD",
+        "last_year": "1990.0",
+        "description": "Abandonné · Commodity: GOLD · Last operation: 1990.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.34381,
+          46.822919
+        ]
+      },
+      "properties": {
+        "name": "Tétreault 2",
+        "category": "À ciel ouvert",
+        "status": "Abandonné",
+        "commodity": "ZINC",
+        "last_year": "1990.0",
+        "description": "Abandonné · Commodity: ZINC · Last operation: 1990.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.34381,
+          46.822919
+        ]
+      },
+      "properties": {
+        "name": "Tétreault 2",
+        "category": "Puits",
+        "status": "Abandonné",
+        "commodity": "LEAD",
+        "last_year": "1990.0",
+        "description": "Abandonné · Commodity: LEAD · Last operation: 1990.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.34381,
+          46.822919
+        ]
+      },
+      "properties": {
+        "name": "Tétreault 2",
+        "category": "Puits",
+        "status": "Abandonné",
+        "commodity": "SILVER",
+        "last_year": "1990.0",
+        "description": "Abandonné · Commodity: SILVER · Last operation: 1990.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.34381,
+          46.822919
+        ]
+      },
+      "properties": {
+        "name": "Tétreault 2",
+        "category": "Puits",
+        "status": "Abandonné",
+        "commodity": "GOLD",
+        "last_year": "1990.0",
+        "description": "Abandonné · Commodity: GOLD · Last operation: 1990.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.417806,
+          48.233491
+        ]
+      },
+      "properties": {
+        "name": "Thompson Cadillac",
+        "category": "Puits",
+        "status": "Abandonné",
+        "commodity": "GOLD",
+        "last_year": "1939.0",
+        "description": "Abandonné · Commodity: GOLD · Last operation: 1939.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.395187,
+          45.153468
+        ]
+      },
+      "properties": {
+        "name": "Van Reet",
+        "category": "Fosse",
+        "status": "Abandonné",
+        "commodity": "TALC",
+        "last_year": "1996.0",
+        "description": "Abandonné · Commodity: TALC · Last operation: 1996.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.395187,
+          45.153468
+        ]
+      },
+      "properties": {
+        "name": "Van Reet",
+        "category": "Puits",
+        "status": "Abandonné",
+        "commodity": "TALC",
+        "last_year": "1996.0",
+        "description": "Abandonné · Commodity: TALC · Last operation: 1996.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.395187,
+          45.153468
+        ]
+      },
+      "properties": {
+        "name": "Van Reet",
+        "category": "Souterraine",
+        "status": "Abandonné",
+        "commodity": "TALC",
+        "last_year": "1996.0",
+        "description": "Abandonné · Commodity: TALC · Last operation: 1996.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.081998,
+          48.359986
+        ]
+      },
+      "properties": {
+        "name": "Vauze ",
+        "category": "Puits",
+        "status": "Abandonné",
+        "commodity": "COPPER",
+        "last_year": "1965.0",
+        "description": "Abandonné · Commodity: COPPER · Last operation: 1965.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.081998,
+          48.359986
+        ]
+      },
+      "properties": {
+        "name": "Vauze ",
+        "category": "À ciel ouvert",
+        "status": "Abandonné",
+        "commodity": "ZINC",
+        "last_year": "1965.0",
+        "description": "Abandonné · Commodity: ZINC · Last operation: 1965.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.081998,
+          48.359986
+        ]
+      },
+      "properties": {
+        "name": "Vauze ",
+        "category": "À ciel ouvert",
+        "status": "Abandonné",
+        "commodity": "GOLD",
+        "last_year": "1965.0",
+        "description": "Abandonné · Commodity: GOLD · Last operation: 1965.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.721196,
+          48.464775
+        ]
+      },
+      "properties": {
+        "name": "Venus",
+        "category": "Puits",
+        "status": "Abandonné",
+        "commodity": "GOLD",
+        "last_year": null,
+        "description": "Abandonné · Commodity: GOLD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.721196,
+          48.464775
+        ]
+      },
+      "properties": {
+        "name": "Venus",
+        "category": "Galerie d'accès",
+        "status": "Abandonné",
+        "commodity": "GOLD",
+        "last_year": null,
+        "description": "Abandonné · Commodity: GOLD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.721196,
+          48.464775
+        ]
+      },
+      "properties": {
+        "name": "Venus",
+        "category": "Tranchée",
+        "status": "Abandonné",
+        "commodity": "GOLD",
+        "last_year": null,
+        "description": "Abandonné · Commodity: GOLD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.241144,
+          48.248836
+        ]
+      },
+      "properties": {
+        "name": "Vianor",
+        "category": "Puits",
+        "status": "Abandonné",
+        "commodity": "GOLD",
+        "last_year": "1938.0",
+        "description": "Abandonné · Commodity: GOLD · Last operation: 1938.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.241144,
+          48.248836
+        ]
+      },
+      "properties": {
+        "name": "Vianor",
+        "category": "Puits",
+        "status": "Abandonné",
+        "commodity": "COPPER",
+        "last_year": "1938.0",
+        "description": "Abandonné · Commodity: COPPER · Last operation: 1938.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.595671,
+          45.836371
+        ]
+      },
+      "properties": {
+        "name": "Villeneuve",
+        "category": "Fosse",
+        "status": "Abandonné",
+        "commodity": "MICA",
+        "last_year": "1900.0",
+        "description": "Abandonné · Commodity: MICA · Last operation: 1900.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.595671,
+          45.836371
+        ]
+      },
+      "properties": {
+        "name": "Villeneuve",
+        "category": "Souterraine",
+        "status": "Abandonné",
+        "commodity": "FELDSPAR",
+        "last_year": "1900.0",
+        "description": "Abandonné · Commodity: FELDSPAR · Last operation: 1900.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.595671,
+          45.836371
+        ]
+      },
+      "properties": {
+        "name": "Villeneuve",
+        "category": "Souterraine",
+        "status": "Abandonné",
+        "commodity": "URANIUM",
+        "last_year": "1900.0",
+        "description": "Abandonné · Commodity: URANIUM · Last operation: 1900.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.088972,
+          48.339931
+        ]
+      },
+      "properties": {
+        "name": "Waite Ackerman",
+        "category": "Puits",
+        "status": "Abandonné",
+        "commodity": "COPPER",
+        "last_year": "1948.0",
+        "description": "Abandonné · Commodity: COPPER · Last operation: 1948.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.088972,
+          48.339931
+        ]
+      },
+      "properties": {
+        "name": "Waite Ackerman",
+        "category": "À ciel ouvert",
+        "status": "Abandonné",
+        "commodity": "ZINC",
+        "last_year": "1948.0",
+        "description": "Abandonné · Commodity: ZINC · Last operation: 1948.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.088972,
+          48.339931
+        ]
+      },
+      "properties": {
+        "name": "Waite Ackerman",
+        "category": "À ciel ouvert",
+        "status": "Abandonné",
+        "commodity": "SILVER",
+        "last_year": "1948.0",
+        "description": "Abandonné · Commodity: SILVER · Last operation: 1948.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.073638,
+          48.312449
+        ]
+      },
+      "properties": {
+        "name": "Waite-Amulet",
+        "category": "À ciel ouvert",
+        "status": "Abandonné",
+        "commodity": "COPPER",
+        "last_year": "1962.0",
+        "description": "Abandonné · Commodity: COPPER · Last operation: 1962.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.073638,
+          48.312449
+        ]
+      },
+      "properties": {
+        "name": "Waite-Amulet",
+        "category": "À ciel ouvert",
+        "status": "Abandonné",
+        "commodity": "ZINC",
+        "last_year": "1962.0",
+        "description": "Abandonné · Commodity: ZINC · Last operation: 1962.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.489771,
+          45.634564
+        ]
+      },
+      "properties": {
+        "name": "Walker",
+        "category": "Fosse",
+        "status": "Abandonné",
+        "commodity": "APATITE",
+        "last_year": "1906.0",
+        "description": "Abandonné · Commodity: APATITE · Last operation: 1906.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.489771,
+          45.634564
+        ]
+      },
+      "properties": {
+        "name": "Walker",
+        "category": "Souterraine",
+        "status": "Abandonné",
+        "commodity": "MICA",
+        "last_year": "1906.0",
+        "description": "Abandonné · Commodity: MICA · Last operation: 1906.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.489771,
+          45.634564
+        ]
+      },
+      "properties": {
+        "name": "Walker",
+        "category": "Souterraine",
+        "status": "Abandonné",
+        "commodity": "GRAPHITE",
+        "last_year": "1906.0",
+        "description": "Abandonné · Commodity: GRAPHITE · Last operation: 1906.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.276263,
+          48.204037
+        ]
+      },
+      "properties": {
+        "name": "Wasamac 2 (Francoeur 3)",
+        "category": "Puits",
+        "status": "Abandonné",
+        "commodity": "GOLD",
+        "last_year": "2001.0",
+        "description": "Abandonné · Commodity: GOLD · Last operation: 2001.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.371628,
+          45.702863
+        ]
+      },
+      "properties": {
+        "name": "Weedon",
+        "category": "Puits",
+        "status": "Abandonné",
+        "commodity": "COPPER",
+        "last_year": "1973.0",
+        "description": "Abandonné · Commodity: COPPER · Last operation: 1973.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.371628,
+          45.702863
+        ]
+      },
+      "properties": {
+        "name": "Weedon",
+        "category": "Fosse",
+        "status": "Abandonné",
+        "commodity": "ZINC",
+        "last_year": "1973.0",
+        "description": "Abandonné · Commodity: ZINC · Last operation: 1973.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.371628,
+          45.702863
+        ]
+      },
+      "properties": {
+        "name": "Weedon",
+        "category": "Fosse",
+        "status": "Abandonné",
+        "commodity": "SILVER",
+        "last_year": "1973.0",
+        "description": "Abandonné · Commodity: SILVER · Last operation: 1973.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.369163,
+          45.681963
+        ]
+      },
+      "properties": {
+        "name": "Welsh",
+        "category": "Fosse",
+        "status": "Abandonné",
+        "commodity": "MOLYBDENUM",
+        "last_year": "1903.0",
+        "description": "Abandonné · Commodity: MOLYBDENUM · Last operation: 1903.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.369163,
+          45.681963
+        ]
+      },
+      "properties": {
+        "name": "Welsh",
+        "category": "Galerie d'accès",
+        "status": "Abandonné",
+        "commodity": "MOLYBDENUM",
+        "last_year": "1903.0",
+        "description": "Abandonné · Commodity: MOLYBDENUM · Last operation: 1903.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.369163,
+          45.681963
+        ]
+      },
+      "properties": {
+        "name": "Welsh",
+        "category": "Tranchée",
+        "status": "Abandonné",
+        "commodity": "MOLYBDENUM",
+        "last_year": "1903.0",
+        "description": "Abandonné · Commodity: MOLYBDENUM · Last operation: 1903.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.95573,
+          48.578963
+        ]
+      },
+      "properties": {
+        "name": "Wendell",
+        "category": "Fosse",
+        "status": "Abandonné",
+        "commodity": "COPPER",
+        "last_year": null,
+        "description": "Abandonné · Commodity: COPPER"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.95573,
+          48.578963
+        ]
+      },
+      "properties": {
+        "name": "Wendell",
+        "category": "Puits",
+        "status": "Abandonné",
+        "commodity": "NICKEL",
+        "last_year": null,
+        "description": "Abandonné · Commodity: NICKEL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.95573,
+          48.578963
+        ]
+      },
+      "properties": {
+        "name": "Wendell",
+        "category": "Puits",
+        "status": "Abandonné",
+        "commodity": "SILVER",
+        "last_year": null,
+        "description": "Abandonné · Commodity: SILVER"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.240212,
+          48.188232
+        ]
+      },
+      "properties": {
+        "name": "West Malartic ",
+        "category": "Puits",
+        "status": "Abandonné",
+        "commodity": "GOLD",
+        "last_year": "1946.0",
+        "description": "Abandonné · Commodity: GOLD · Last operation: 1946.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.905793,
+          45.347837
+        ]
+      },
+      "properties": {
+        "name": "Wilson",
+        "category": "Petite fosse",
+        "status": "Abandonné",
+        "commodity": "MICA",
+        "last_year": "1944.0",
+        "description": "Abandonné · Commodity: MICA · Last operation: 1944.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.356079,
+          48.233274
+        ]
+      },
+      "properties": {
+        "name": "Wood Cadillac ",
+        "category": "Puits",
+        "status": "Abandonné",
+        "commodity": "GOLD",
+        "last_year": "1949.0",
+        "description": "Abandonné · Commodity: GOLD · Last operation: 1949.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.584205,
+          48.098998
+        ]
+      },
+      "properties": {
+        "name": "Wrightbar",
+        "category": "Galerie d'accès",
+        "status": "Abandonné",
+        "commodity": "GOLD",
+        "last_year": "1988.0",
+        "description": "Abandonné · Commodity: GOLD · Last operation: 1988.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.335455,
+          45.719266
+        ]
+      },
+      "properties": {
+        "name": "Yale",
+        "category": "Puits",
+        "status": "Abandonné",
+        "commodity": "COPPER",
+        "last_year": "1860.0",
+        "description": "Abandonné · Commodity: COPPER · Last operation: 1860.0"
+      }
+    }
+  ]
+}

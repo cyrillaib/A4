@@ -1,0 +1,32 @@
+GEOG 464 – Assignment 3
+Usability Test Plan – Abandoned Mines & Tailings in Québec
+Student: Cyril Laïb
+Date: Nov 2, 2025
+
+1. Overview
+This web map shows abandoned/legacy mining sites and tailings in Québec (MELCCFP / Données Québec). For A3 I added a new proximity/impact filter so that users can display only: (a) sites near Indigenous/northern communities, (b) sites near population centres, (c) sites that look like tailings/water from their attributes, or (d) remote sites. Goal: check if a first-time user can notice, use, and understand the new filter.
+
+2. Participants & method
+- 3–5 classmates who have not used the map
+- Online (Zoom/Teams), 10–15 min each
+- I tell them “I am testing the map, not you.”
+- I take notes only
+
+3. Tasks
+Task 1 – Indigenous
+“Show me only the sites that could affect Indigenous or northern communities.”
+Expected: user picks the Indigenous option → fewer points.
+
+Task 2 – Population
+“Now show me sites closer to population centres.”
+Expected: user picks population option → points in southern Québec stay.
+
+Task 3 – Info panel
+“Click one site and tell me what it is.”
+Expected: popup + info panel updates.
+
+4. Feedback
+I send a short form (4–5 questions): was the filter easy to find; did the map react; which label was unclear; what to improve.
+
+5. Submission
+Submit this plan + the code ZIP + 1–2 screenshots + the live link.
